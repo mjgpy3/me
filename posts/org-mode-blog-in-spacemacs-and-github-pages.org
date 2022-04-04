@@ -1,0 +1,26 @@
+#+title: ~org-mode~ Blog in spacemacs and Github Pages
+#+date: <2022-04-04 16:09>
+#+filetags: emacs blog spacemacs github
+
+I just published the famous [[https://mjgpy3.github.io/me/hello-world.html]["hello world" article]] using
+ - [[https://github.com/bastibe/org-static-blog][org-static-blog]],
+ - [[https://www.spacemacs.org/][spacemacs]], and
+ - [[https://pages.github.com/][Github pages]]
+
+As an equally-famous followup, here's the "how I did it" post.
+
+To start, I added the ~org-static-blog~ package to my ~.spacemacs~ file.
+
+#+begin_src elisp
+  dotspacemacs-additional-packages '(org-static-blog)
+#+end_src
+
+Next, I added the generic [[https://github.com/bastibe/org-static-blog#minimal-configuration][minimal configuration]] that the package recommends, substituting values for my specific setup.
+
+Then I added a new post under my [[https://github.com/mjgpy3/me/blob/main/posts/hello-world.org][~posts~ folder]].
+
+Then I ran ~org-static-blog-publish~ and viola, a git add/commit/push later and here we are.
+
+To configure Github pages, I went to my repository's "Settings" page and, under the "Pages" tab, I chose the repo's ~docs~ folder. ~docs~ is where I configured ~org-static-blog~ to generate content.
+
+But, enough meta-blogging, where's the content?
