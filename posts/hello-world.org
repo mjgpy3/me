@@ -1,0 +1,5 @@
+#+title: Hello World
+#+date: <2022-04-04 03:43>
+#+filetags: emacs blog
+
+Hello there! This is a test of blogging using ~org-static-blog~. I'll publish a followup explaining how I got it working with spacemacs and github pages.
