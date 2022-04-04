@@ -1,4 +1,4 @@
-#+title: ~org-mode~ Blog in spacemacs and Github Pages
+#+title: org-mode Blog in spacemacs and Github Pages
 #+date: <2022-04-04 16:09>
 #+filetags: emacs blog spacemacs github
 
