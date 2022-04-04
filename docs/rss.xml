@@ -4,7 +4,7 @@
 <title><![CDATA[Gilli's Land]]></title>
 <description><![CDATA[Gilli's Land]]></description>
 <link>https://mjgpy3.github.io/me</link>
-<lastBuildDate>Mon, 04 Apr 2022 16:11:28 -0400</lastBuildDate>
+<lastBuildDate>Mon, 04 Apr 2022 16:17:00 -0400</lastBuildDate>
 <item>
   <title><![CDATA[org-mode Blog in spacemacs and Github Pages]]></title>
   <description><![CDATA[
@@ -31,7 +31,7 @@ To start, I added the <code>org-static-blog</code> package to my <code>.spacemac
 </div>
 
 <p>
-Next, I added the generic <a href="https://github.com/bastibe/org-static-blog#minimal-configuration">minimal configuration</a> that the package recommends, substituting values for my specific setup.
+Next, I added the generic <a href="https://github.com/bastibe/org-static-blog#minimal-configuration">minimal configuration</a> that the package recommends, substituting values for my specific setup. I set <code>org-static-blog-page-postamble</code> to the empty string because I didn't like seeing duplicate "Other Posts" links.
 </p>
 
 <p>

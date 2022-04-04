@@ -15,7 +15,7 @@ To start, I added the ~org-static-blog~ package to my ~.spacemacs~ file.
   dotspacemacs-additional-packages '(org-static-blog)
 #+end_src
 
-Next, I added the generic [[https://github.com/bastibe/org-static-blog#minimal-configuration][minimal configuration]] that the package recommends, substituting values for my specific setup.
+Next, I added the generic [[https://github.com/bastibe/org-static-blog#minimal-configuration][minimal configuration]] that the package recommends, substituting values for my specific setup. I set ~org-static-blog-page-postamble~ to the empty string because I didn't like seeing duplicate "Other Posts" links.
 
 Then I added a new post under my [[https://github.com/mjgpy3/me/blob/main/posts/hello-world.org][~posts~ folder]].
 
