@@ -1,0 +1,22 @@
+#+title: Toddler Trilemma
+#+date: <2022-04-04 20:24>
+#+filetags: parenting philosophy logic
+
+Before I became the parent of a toddler, there were phrases I never imagined myself saying. "Because I said so" and "because that's how it is" are answers that I've never found satisfactory -- why should a toddler? Well, lo and behold, I find myself using phrases like these more than I'd care to admit as a defense against the endless barrage of /why?/.
+
+The other day, while indulging a particularly long stream of /why?/, my mind began to wonder and I started to connect the situation to a bit of formal logic I studied eons ago.
+
+I don't think about formal logic often but one thing that's always stuck with me is the [[https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma][Münchhausen trilemma]].
+
+This "trilemma" asserts that there are only three ways to actually prove something:
+ - circular reasoning
+ - infinite regression
+ - argument from authority/axiom
+
+See the connection?
+
+Answering "because I said so" is a lot like an argument from authority or an axiomatic argument. In this case, it's so, well, because I said it is -- I'm the authority.
+
+Responding "because that's how it is" is a circular argument, albeit a boring one without any little arguments in between.
+
+What about an infinite regression argument? Well logicians, hear us parents out, these don't exist. A toddler's endurance in asking "why?" far surpasses that of the parent in articulating coherent responses. Münchhausen I see your trilemma; meet the Toddler's Dilemma; Occam would be so proud.
