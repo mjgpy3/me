@@ -1,6 +1,6 @@
 #+title: org-mode Blog in spacemacs and Github Pages
 #+date: <2022-04-04 16:09>
-#+filetags: emacs blog spacemacs github
+#+filetags: emacs blog spacemacs github project howto
 
 I just published the famous [[https://mjgpy3.github.io/me/hello-world.html]["hello world" article]] using
  - [[https://github.com/bastibe/org-static-blog][org-static-blog]],

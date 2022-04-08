@@ -1,6 +1,6 @@
 #+title: Bane Dominion Expansion
 #+date: <2022-04-08 16:40>
-#+filetags: dominion
+#+filetags: dominion project
 
 * Why Bane?
 
