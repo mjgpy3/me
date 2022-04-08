@@ -1,0 +1,99 @@
+#+title: Bane Dominion Expansion
+#+date: <2022-04-08 16:40>
+#+filetags: dominion
+
+* Why Bane?
+
+I created a [[https://www.riograndegames.com/games/dominion/][dominion]] expansion based around the [[http://wiki.dominionstrategy.com/index.php/Bane][Young Witch's bane card]].
+
+The reason for using "Bane" (e.g. deck modifiers) as the main deck engine is simple. You can print the cards out (using a tool like [[https://shardofhonor.github.io/dominion-card-generator/?title=&description=&type=&credit=&creator=&price=&preview=&type2=&color2split=1&boldkeys=&picture-x=0&picture-y=0&picture-zoom=1&picture=&expansion=&custom-icon=&color0=0&color1=0&size=4][the card generator]]) and use them with your existing cards. No need for fancy card-stock, matching backs, and all that -- just print them out and play.
+
+* General Notes
+  - Bane cards lay under kingdom piles and grant them new behaviors.
+  - Bane cards that grant a card a new type (e.g. /Fortification/) do this in addition to its existing types though card types remain
+  - Kingdom cards should have at most one Bane modifier
+  - It's recommended to use no more than 3 Bane cards in a kingdom
+
+* Bane Behaviors
+
+Here are the card names and their behaviors.
+  
+** Bargain
+These cost 1 less than marked but not less than 0.
+
+** Buy and Buy 
+When you gain one of these, +1 buy.
+
+** Cover of Darkness
+After you buy one of these, move the top card from any kingdom pile on top of any other kingdom pile.
+
+** Cursed Heirloom
+When you buy one of these each other player gains a curse.
+
+** Exchange
+When you buy one of these, players pass a card from their hand to the next player's hand (simultaneously).
+
+** Flank
+If you have one of these in your hand at the start of your turn, you may discard your hand and redraw it.
+
+You draw the same number of cards as you discarded (including the Flank card).
+
+** Fools Gold
+These cannot be purchased using $. You must use a combination of actions and buys instead.
+
+** Fortification
+These may be used as a Reaction with the same defense as Moat (reveal to block any attack).
+
+These are now considered a Reaction cards, if not already.
+
+** Frontier
+When you gain one of these you may also gain any other buy-able card in the game that has not yet been gained by a player.
+
+** Gambler
+When you acquire one of these, flip a coin. If heads, gain +$3, if tails, gain a curse.
+
+** Magic Shield
+If you have one of these in hand when you would have been cursed, you may reveal it to instead curse the player who tried to curse you.
+
+If they reveal magic shield, you instead trash the curse.
+
+These are now considered a Reaction cards, if not already.
+
+** Opportune
+When played as actions, these give +1 action, +1 card before its listed affects.
+
+These are now considered a Action cards, if not already.
+
+** Plague Cart
+When you buy one of these, name a card. All other players must trash that card or reveal that they cannot.
+
+** Rebate
+When you gain one of these, +$1.
+
+** Sacrifice
+When you gain one of these, trash a card from another kingdom pile of equal or lesser value.
+
+** Secret Plans
+These are also worth 1VP.
+
+These are now considered a Victory cards, if not already.
+
+** Silver Mine
+When you gain one of these, also gain a silver.
+
+** Throne
+These behave as if they were Throne Roomed when playing them as actions.
+
+** Treasury Key
+If you cause this pile to be depleted, gain 6 golds.    
+
+** Tunnel
+These are gained directly to your deck instead of discard pile.
+
+** Vault
+When you gain one of these, set aside another card from your hand. When you finish your turn, put the set aside card into your new hand.
+
+** Zebra
+This pile is comprised half of one pile of kingdom cards shuffled with another half pile.
+
+The kingdom cards and top card are known but the order is secret.

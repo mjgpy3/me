@@ -1,13 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title><![CDATA[Gilli's Land]]></title>
-<description><![CDATA[Gilli's Land]]></description>
-<link>https://mjgpy3.github.io/me</link>
-<lastBuildDate>Fri, 08 Apr 2022 16:40:25 -0400</lastBuildDate>
-<item>
-  <title><![CDATA[Bane Dominion Expansion]]></title>
-  <description><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="alternate"
+      type="application/rss+xml"
+      href="https://mjgpy3.github.io/me/rss.xml"
+      title="RSS feed for https://mjgpy3.github.io/me">
+<title>Bane Dominion Expansion</title>
+<meta name="author" content="Michael 'Gilli' Gilliland">
+<meta name="referrer" content="no-referrer">
+<link href= "static/style.css" rel="stylesheet" type="text/css" />
+<link rel="icon" href="static/favicon.ico"></head>
+<body>
+<div id="preamble" class="status"><div class="header">
+  <a href="https://mjgpy3.github.io/me">Gilli's Land</a>
+</div></div>
+<div id="content">
+<div class="post-date">08 Apr 2022</div><h1 class="post-title"><a href="https://mjgpy3.github.io/me/bane-dominion-expansion.html">Bane Dominion Expansion</a></h1>
 
 <div id="outline-container-org9e418a8" class="outline-2">
 <h2 id="org9e418a8">Why Bane?</h2>
@@ -268,124 +277,7 @@ The kingdom cards and top card are known but the order is secret.
 </div>
 </div>
 </div>
-<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-dominion.html">dominion</a> </div>]]></description>
-  <category><![CDATA[dominion]]></category>
-  <link>https://mjgpy3.github.io/me/bane-dominion-expansion.html</link>
-  <guid>https://mjgpy3.github.io/me/bane-dominion-expansion.html</guid>
-  <pubDate>Fri, 08 Apr 2022 16:40:00 -0400</pubDate>
-</item>
-<item>
-  <title><![CDATA[Toddler Trilemma]]></title>
-  <description><![CDATA[
-<p>
-Before I became the parent of a toddler, there were phrases I never imagined myself saying. "Because I said so" and "because that's how it is" are answers that I've never found satisfactory &#x2013; why should a toddler? Well, lo and behold, I find myself using phrases like these more than I'd care to admit as a defense against the endless barrage of <i>why?</i>.
-</p>
-
-<p>
-The other day, while indulging a particularly long stream of <i>why?</i>, my mind began to wonder and I started to connect the situation to a bit of formal logic I studied eons ago.
-</p>
-
-<p>
-I don't think about formal logic often but one thing that's always stuck with me is the <a href="https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma">Münchhausen trilemma</a>.
-</p>
-
-<p>
-This "trilemma" asserts that there are only three ways to actually prove something:
-</p>
-<ul class="org-ul">
-<li>circular reasoning</li>
-<li>infinite regression</li>
-<li>argument from authority/axiom</li>
-</ul>
-
-<p>
-See the connection?
-</p>
-
-<p>
-Answering "because I said so" is a lot like an argument from authority or an axiomatic argument. In this case, it's so, well, because I said it is &#x2013; I'm the authority.
-</p>
-
-<p>
-Responding "because that's how it is" is a circular argument, albeit a boring one without any little arguments in between.
-</p>
-
-<p>
-What about an infinite regression argument? Well logicians, hear us parents out, these don't exist. A toddler's endurance in asking "why?" far surpasses that of the parent in articulating coherent responses. Münchhausen I see your trilemma; meet the Toddler's Dilemma; Occam would be so proud.
-</p>
-<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-parenting.html">parenting</a> <a href="https://mjgpy3.github.io/me/tag-philosophy.html">philosophy</a> <a href="https://mjgpy3.github.io/me/tag-logic.html">logic</a> </div>]]></description>
-  <category><![CDATA[parenting]]></category>
-  <category><![CDATA[philosophy]]></category>
-  <category><![CDATA[logic]]></category>
-  <link>https://mjgpy3.github.io/me/toddler-trilemma.html</link>
-  <guid>https://mjgpy3.github.io/me/toddler-trilemma.html</guid>
-  <pubDate>Mon, 04 Apr 2022 20:24:00 -0400</pubDate>
-</item>
-<item>
-  <title><![CDATA[org-mode Blog in spacemacs and Github Pages]]></title>
-  <description><![CDATA[
-<p>
-I just published the famous <a href="https://mjgpy3.github.io/me/hello-world.html">"hello world" article</a> using
-</p>
-<ul class="org-ul">
-<li><a href="https://github.com/bastibe/org-static-blog">org-static-blog</a>,</li>
-<li><a href="https://www.spacemacs.org/">spacemacs</a>, and</li>
-<li><a href="https://pages.github.com/">Github pages</a></li>
-</ul>
-
-<p>
-As an equally-famous followup, here's the "how I did it" post.
-</p>
-
-<p>
-To start, I added the <code>org-static-blog</code> package to my <code>.spacemacs</code> file.
-</p>
-
-<div class="org-src-container">
-<pre class="src src-elisp">dotspacemacs-additional-packages '<span style="color: #81b0e3;">(</span>org-static-blog<span style="color: #81b0e3;">)</span>
-</pre>
-</div>
-
-<p>
-Next, I added the generic <a href="https://github.com/bastibe/org-static-blog#minimal-configuration">minimal configuration</a> that the package recommends, substituting values for my specific setup. I set <code>org-static-blog-page-postamble</code> to the empty string because I didn't like seeing duplicate "Other Posts" links.
-</p>
-
-<p>
-Then I added a new post under my <a href="https://github.com/mjgpy3/me/blob/main/posts/hello-world.org"><code>posts</code> folder</a>.
-</p>
-
-<p>
-Then I ran <code>org-static-blog-publish</code> and viola, a git add/commit/push later and here we are.
-</p>
-
-<p>
-To configure Github pages, I went to my repository's "Settings" page and, under the "Pages" tab, I chose the repo's <code>docs</code> folder. <code>docs</code> is where I configured <code>org-static-blog</code> to generate content.
-</p>
-
-<p>
-But, enough meta-blogging, where's the content?
-</p>
-<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-emacs.html">emacs</a> <a href="https://mjgpy3.github.io/me/tag-blog.html">blog</a> <a href="https://mjgpy3.github.io/me/tag-spacemacs.html">spacemacs</a> <a href="https://mjgpy3.github.io/me/tag-github.html">github</a> </div>]]></description>
-  <category><![CDATA[emacs]]></category>
-  <category><![CDATA[blog]]></category>
-  <category><![CDATA[spacemacs]]></category>
-  <category><![CDATA[github]]></category>
-  <link>https://mjgpy3.github.io/me/org-mode-blog-in-spacemacs-and-github-pages.html</link>
-  <guid>https://mjgpy3.github.io/me/org-mode-blog-in-spacemacs-and-github-pages.html</guid>
-  <pubDate>Mon, 04 Apr 2022 16:09:00 -0400</pubDate>
-</item>
-<item>
-  <title><![CDATA[Hello World]]></title>
-  <description><![CDATA[
-<p>
-Hello there! This is a test of blogging using <code>org-static-blog</code>. I'll publish a followup explaining how I got it working with spacemacs and github pages.
-</p>
-<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-emacs.html">emacs</a> <a href="https://mjgpy3.github.io/me/tag-blog.html">blog</a> </div>]]></description>
-  <category><![CDATA[emacs]]></category>
-  <category><![CDATA[blog]]></category>
-  <link>https://mjgpy3.github.io/me/hello-world.html</link>
-  <guid>https://mjgpy3.github.io/me/hello-world.html</guid>
-  <pubDate>Mon, 04 Apr 2022 15:43:00 -0400</pubDate>
-</item>
-</channel>
-</rss>
+<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-dominion.html">dominion</a> </div></div>
+<div id="postamble" class="status"></div>
+</body>
+</html>
