@@ -33,3 +33,10 @@ a[href*="tag-"] {
   color: #ede4cb;
   padding: 3px;
 }
+
+.org-src-container {
+  border: 3px solid lightblue;
+  padding-left: 1rem;
+  border-radius: 3px;
+  background-color: white;
+}
