@@ -4,16 +4,165 @@
 <title><![CDATA[Gilli's Land]]></title>
 <description><![CDATA[Gilli's Land]]></description>
 <link>https://mjgpy3.github.io/me</link>
-<lastBuildDate>Fri, 08 Apr 2022 21:07:25 -0400</lastBuildDate>
+<lastBuildDate>Sat, 09 Apr 2022 14:22:43 -0400</lastBuildDate>
+<item>
+  <title><![CDATA[Making Russian Flashcards for Reading]]></title>
+  <description><![CDATA[
+<p>
+I have a lifetime goal to read <a href="https://en.wikipedia.org/wiki/The_Brothers_Karamazov"><i>The Brothers Karamazov</i></a> in the original Russian. I wanted to build out some Russian flashcards and I figured what better way to determine what words to use than the text of the book I want to read!
+</p>
+
+<p>
+To start, I found a text file containing the Russian text of the book. This wasn't too difficult since the book's long past it's copyright. I essentially searched for "братья Карамазовы PDF" (the name of the book in Russian, followed by "PDF"). Lo and behold, I found a text copy from this search. All the better, no need to extract the text from a PDF!
+</p>
+
+<p>
+I stored the text in a file called <code>brothers-k.txt</code> then wrote a little Python script to sort the words by frequency&#x2026;
+</p>
+
+<div class="org-src-container">
+<pre class="src src-python"><span style="color: #5180b3;">import</span> re
+
+<span style="color: #656565;"># </span><span style="color: #757575;">Build a regular expression to grab Russian words</span>
+<span style="color: #baba36;">word</span> = re.<span style="color: #528fd1;">compile</span><span style="color: #81b0e3;">(</span><span style="color: #bdbc61;">'[&#1072;-&#1103;&#1040;-&#1071;]+'</span>, re.IGNORECASE<span style="color: #81b0e3;">)</span>
+
+<span style="color: #656565;"># </span><span style="color: #757575;">Read in the file</span>
+<span style="color: #5180b3;">with</span> <span style="color: #528fd1;">open</span><span style="color: #81b0e3;">(</span><span style="color: #bdbc61;">'./brothers-k.txt'</span>, <span style="color: #bdbc61;">'r'</span><span style="color: #81b0e3;">)</span> <span style="color: #5180b3;">as</span> f:
+  <span style="color: #baba36;">raw_text</span> = f.read<span style="color: #81b0e3;">()</span>
+
+<span style="color: #656565;"># </span><span style="color: #757575;">Store words as a mapping from word to frequency</span>
+<span style="color: #baba36;">freqs</span> = <span style="color: #81b0e3;">{}</span>
+
+<span style="color: #656565;"># </span><span style="color: #757575;">Loop through results of regex</span>
+<span style="color: #5180b3;">for</span> word <span style="color: #5180b3;">in</span> <span style="color: #528fd1;">list</span><span style="color: #81b0e3;">(</span>word.findall<span style="color: #a5a5a5;">(</span>raw_text<span style="color: #a5a5a5;">)</span><span style="color: #81b0e3;">)</span>:
+  <span style="color: #656565;"># </span><span style="color: #757575;">Sanitize (lowercase) word so capitalization doesn't matter as much</span>
+  <span style="color: #baba36;">low</span> = word.lower<span style="color: #81b0e3;">()</span>
+
+  <span style="color: #656565;"># </span><span style="color: #757575;">Count unique words</span>
+  <span style="color: #baba36;">freqs</span><span style="color: #81b0e3;">[</span>low<span style="color: #81b0e3;">]</span> = freqs.get<span style="color: #81b0e3;">(</span>low, <span style="color: #ab75c3;">0</span><span style="color: #81b0e3;">)</span> + <span style="color: #ab75c3;">1</span>
+
+<span style="color: #656565;"># </span><span style="color: #757575;">Print out count with word</span>
+<span style="color: #5180b3;">for</span> word <span style="color: #5180b3;">in</span> <span style="color: #528fd1;">sorted</span><span style="color: #81b0e3;">(</span>freqs, key=<span style="color: #5180b3;">lambda</span> v: freqs<span style="color: #a5a5a5;">[</span>v<span style="color: #a5a5a5;">]</span>, reverse=<span style="color: #ab75c3;">True</span><span style="color: #81b0e3;">)</span>:
+  <span style="color: #5180b3;">print</span><span style="color: #81b0e3;">(</span>freqs<span style="color: #a5a5a5;">[</span>word<span style="color: #a5a5a5;">]</span>, word<span style="color: #81b0e3;">)</span>
+</pre>
+</div>
+
+<p>
+I ran this script like so to generate <code>words.txt</code>&#x2026;
+</p>
+
+<div class="org-src-container">
+<pre class="src src-bash">./extract_words.py &gt; words.txt
+</pre>
+</div>
+
+<p>
+This file contains about 35,000 words that look something like&#x2026;
+</p>
+
+<div class="org-src-container">
+<pre class="src src-txt">14292 и
+6863 в
+6814 не
+...
+879 алеша
+...
+вечное 1
+</pre>
+</div>
+
+<p>
+I then wrote a little shell script to output an English translation of the word, using <a href="https://duckduckgo.com/">duckduckgo's</a> translation API. To figure out the API details I&#x2026;
+</p>
+
+<ul class="org-ul">
+<li>entered a word into the translation service,</li>
+<li>opened the Network tab,</li>
+<li>right-clicked the request, then</li>
+<li>choose "Copy &gt; Copy as CURL"</li>
+</ul>
+
+<p>
+Here's the translation script, with some details omitted (using <code>...</code>) for brevity. Note that this script uses <a href="https://stedolan.github.io/jq/"><code>jq</code></a> to extract the translated value.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-bash"><span style="color: #656565;">#</span><span style="color: #757575;">!/usr/bin/</span><span style="color: #5180b3;">env</span><span style="color: #757575;"> bash</span>
+
+<span style="color: #baba36;">ru_word</span>=$<span style="color: #81b0e3;">(</span><span style="color: #fa8072;">echo</span> $<span style="color: #ab75c3;">1</span> | cut -d <span style="color: #bdbc61;">' '</span> -f <span style="color: #ab75c3;">2</span><span style="color: #81b0e3;">)</span>
+<span style="color: #baba36;">count</span>=$<span style="color: #81b0e3;">(</span><span style="color: #fa8072;">echo</span> $<span style="color: #ab75c3;">1</span> | cut -d <span style="color: #bdbc61;">' '</span> -f <span style="color: #ab75c3;">1</span><span style="color: #81b0e3;">)</span>
+
+<span style="color: #baba36;">en</span>=$<span style="color: #81b0e3;">(</span><span style="color: #fa8072;">curl</span> <span style="color: #bdbc61;">'https://duckduckgo.com/translation.js?...&amp;query=translate&amp;from=ru&amp;to=en'</span> <span style="color: #bdbc61;">\</span>
+     <span style="color: #656565;"># </span><span style="color: #757575;">...</span>
+     -H <span style="color: #bdbc61;">'accept-language: en-US,en;q=0.9'</span> <span style="color: #bdbc61;">\</span>
+     --data-raw <span style="color: #bdbc61;">"${ru_word}"</span> <span style="color: #bdbc61;">\</span>
+     --silent <span style="color: #bdbc61;">\</span>
+     --compressed | jq <span style="color: #bdbc61;">'.translated'</span> -r<span style="color: #81b0e3;">)</span>
+
+<span style="color: #528fd1;">echo</span> <span style="color: #bdbc61;">"${count},${ru_word},${en}"</span>
+</pre>
+</div>
+
+<p>
+I then added a higher-level script to run this script, line by line&#x2026;
+</p>
+
+<div class="org-src-container">
+<pre class="src src-bash"><span style="color: #656565;">#</span><span style="color: #757575;">!/usr/bin/</span><span style="color: #5180b3;">env</span><span style="color: #757575;"> bash</span>
+
+<span style="color: #528fd1;">echo</span> <span style="color: #bdbc61;">'count,ru,en'</span> &gt; words.csv
+
+<span style="color: #5180b3;">while </span><span style="color: #528fd1;">read</span> line; <span style="color: #5180b3;">do</span>
+  ./ru_to_en.sh <span style="color: #bdbc61;">"${line}"</span> &gt;&gt; words.csv
+  sleep .5
+<span style="color: #5180b3;">done</span> &lt;words.txt
+</pre>
+</div>
+
+<p>
+I did this so that (1) I could stream results easily, (2) for better clarity, and (3) so I could easily <code>sleep</code> between requests &#x2013; it's rude to make 35,000 rapid requests!
+</p>
+
+<p>
+Running this script yields (and is still yielding) a CSV that looks like&#x2026;
+</p>
+
+<div class="org-src-container">
+<pre class="src src-csv">count<span style="color: #00ffff;">,</span>ru<span style="color: #00ffff;">,</span>en
+14292<span style="color: #00ffff;">,</span>&#1080;<span style="color: #00ffff;">,</span>and
+6863<span style="color: #00ffff;">,</span>&#1074;<span style="color: #00ffff;">,</span>in
+6814<span style="color: #00ffff;">,</span>&#1085;&#1077;<span style="color: #00ffff;">,</span>not
+5697<span style="color: #00ffff;">,</span>&#1095;&#1090;&#1086;<span style="color: #00ffff;">,</span>A what
+4263<span style="color: #00ffff;">,</span>&#1103;<span style="color: #00ffff;">,</span>I
+4112<span style="color: #00ffff;">,</span>&#1086;&#1085;<span style="color: #00ffff;">,</span>he
+3819<span style="color: #00ffff;">,</span>&#1089;<span style="color: #00ffff;">,</span>with
+3651<span style="color: #00ffff;">,</span>&#1085;&#1072;<span style="color: #00ffff;">,</span>on
+3232<span style="color: #00ffff;">,</span>&#1090;&#1086;<span style="color: #00ffff;">,</span>that
+...
+</pre>
+</div>
+
+<p>
+After it's done, I will take the first thousand or so words and input them into <a href="https://github.com/mjgpy3/cardstudy">my little flashcard app</a> and start memorizing!
+</p>
+<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-russian.html">russian</a> <a href="https://mjgpy3.github.io/me/tag-project.html">project</a> <a href="https://mjgpy3.github.io/me/tag-programming.html">programming</a> </div>]]></description>
+  <category><![CDATA[russian]]></category>
+  <category><![CDATA[project]]></category>
+  <category><![CDATA[programming]]></category>
+  <link>https://mjgpy3.github.io/me/making-russian-flashcards-for-reading.html</link>
+  <guid>https://mjgpy3.github.io/me/making-russian-flashcards-for-reading.html</guid>
+  <pubDate>Sat, 09 Apr 2022 14:22:00 -0400</pubDate>
+</item>
 <item>
   <title><![CDATA[Arbitrary Post]]></title>
   <description><![CDATA[
 <p>
 Just cross-posting a <a href="https://tech.freckle.com/2022/04/07/it-doesnt-have-to-be-arbitrary/">blog post</a> that I wrote on Haskell <code>Arbitrary</code> instances. It's neat to work at a company that encourages writing blogs as part of your day job. <a href="https://freckle.com/en-us/">Freckle</a> rocks.
 </p>
-<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-haskell.html">haskell</a> <a href="https://mjgpy3.github.io/me/tag-work.html">work</a> </div>]]></description>
+<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-haskell.html">haskell</a> <a href="https://mjgpy3.github.io/me/tag-work.html">work</a> <a href="https://mjgpy3.github.io/me/tag-programming.html">programming</a> </div>]]></description>
   <category><![CDATA[haskell]]></category>
   <category><![CDATA[work]]></category>
+  <category><![CDATA[programming]]></category>
   <link>https://mjgpy3.github.io/me/arbitrary-post.html</link>
   <guid>https://mjgpy3.github.io/me/arbitrary-post.html</guid>
   <pubDate>Fri, 08 Apr 2022 21:04:00 -0400</pubDate>

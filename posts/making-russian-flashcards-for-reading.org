@@ -1,0 +1,111 @@
+#+title: Making Russian Flashcards for Reading
+#+date: <2022-04-09 14:22>
+#+filetags: russian project programming
+
+I have a lifetime goal to read [[https://en.wikipedia.org/wiki/The_Brothers_Karamazov][/The Brothers Karamazov/]] in the original Russian. I wanted to build out some Russian flashcards and I figured what better way to determine what words to use than the text of the book I want to read!
+
+To start, I found a text file containing the Russian text of the book. This wasn't too difficult since the book's long past it's copyright. I essentially searched for "братья Карамазовы PDF" (the name of the book in Russian, followed by "PDF"). Lo and behold, I found a text copy from this search. All the better, no need to extract the text from a PDF!
+
+I stored the text in a file called ~brothers-k.txt~ then wrote a little Python script to sort the words by frequency...
+
+#+begin_src python
+  import re
+  
+  # Build a regular expression to grab Russian words
+  word = re.compile('[а-яА-Я]+', re.IGNORECASE)
+  
+  # Read in the file
+  with open('./brothers-k.txt', 'r') as f:
+    raw_text = f.read()
+  
+  # Store words as a mapping from word to frequency
+  freqs = {}
+  
+  # Loop through results of regex
+  for word in list(word.findall(raw_text)):
+    # Sanitize (lowercase) word so capitalization doesn't matter as much
+    low = word.lower()
+  
+    # Count unique words
+    freqs[low] = freqs.get(low, 0) + 1
+  
+  # Print out count with word
+  for word in sorted(freqs, key=lambda v: freqs[v], reverse=True):
+    print(freqs[word], word)
+#+end_src
+
+I ran this script like so to generate ~words.txt~...
+
+#+begin_src bash
+./extract_words.py > words.txt
+#+end_src
+
+This file contains about 35,000 words that look something like...
+
+#+begin_src txt
+14292 и
+6863 в
+6814 не
+...
+879 алеша
+...
+вечное 1
+#+end_src
+
+I then wrote a little shell script to output an English translation of the word, using [[https://duckduckgo.com/][duckduckgo's]] translation API. To figure out the API details I...
+
+ - entered a word into the translation service,
+ - opened the Network tab,
+ - right-clicked the request, then
+ - choose "Copy > Copy as CURL"
+
+Here's the translation script, with some details omitted (using ~...~) for brevity. Note that this script uses [[https://stedolan.github.io/jq/][~jq~]] to extract the translated value.
+ 
+#+begin_src bash
+  #!/usr/bin/env bash
+  
+  ru_word=$(echo $1 | cut -d ' ' -f 2)
+  count=$(echo $1 | cut -d ' ' -f 1)
+  
+  en=$(curl 'https://duckduckgo.com/translation.js?...&query=translate&from=ru&to=en' \
+       # ...
+       -H 'accept-language: en-US,en;q=0.9' \
+       --data-raw "${ru_word}" \
+       --silent \
+       --compressed | jq '.translated' -r)
+  
+  echo "${count},${ru_word},${en}"
+#+end_src
+
+I then added a higher-level script to run this script, line by line...
+
+#+begin_src bash
+  #!/usr/bin/env bash
+  
+  echo 'count,ru,en' > words.csv
+  
+  while read line; do
+    ./ru_to_en.sh "${line}" >> words.csv
+    sleep .5
+  done <words.txt
+#+end_src
+
+I did this so that (1) I could stream results easily, (2) for better clarity, and (3) so I could easily ~sleep~ between requests -- it's rude to make 35,000 rapid requests!
+
+Running this script yields (and is still yielding) a CSV that looks like...
+
+#+begin_src csv
+  count,ru,en
+  14292,и,and
+  6863,в,in
+  6814,не,not
+  5697,что,A what
+  4263,я,I
+  4112,он,he
+  3819,с,with
+  3651,на,on
+  3232,то,that
+  ...
+#+end_src
+
+After it's done, I will take the first thousand or so words and input them into [[https://github.com/mjgpy3/cardstudy][my little flashcard app]] and start memorizing!
