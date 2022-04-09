@@ -1,0 +1,5 @@
+#+title: Arbitrary Post
+#+date: <2022-04-08 21:04>
+#+filetags: haskell work
+
+Just cross-posting a [[https://tech.freckle.com/2022/04/07/it-doesnt-have-to-be-arbitrary/][blog post]] that I wrote on Haskell ~Arbitrary~ instances. It's neat to work at a company that encourages writing blogs as part of your day job. [[https://freckle.com/en-us/][Freckle]] rocks.
