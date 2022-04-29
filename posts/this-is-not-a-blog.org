@@ -1,0 +1,16 @@
+#+title: This Is Not a blog
+#+date: <2022-04-29 16:49>
+#+filetags: blog
+
+Over a decade ago I read a post saying that [[https://blog.codinghorror.com/a-blog-without-comments-is-not-a-blog/][a blog without comments is not a blog]]. Although I agree with some of the points made therein, I will not be enabling comments on this blog.
+
+Interested in why? Here's a snapshot of emails I get about my old blog:
+
+#+caption: Comments added emails
+[[file:assets/new-comment-emails.png]]
+
+Can you guess the content of 100% of those comments? Ads -- walls of links -- many of which are pornographic in nature. What a waste of time and bits. I won't be adding comments to this blog because there are other ways to contact me than below my posts.
+
+For example, you could create a github account and [[https://github.com/mjgpy3/me/issues][open an issue in the blog's source]]. Or if you have something pressing to discuss you could email me at ~michael (dot) does (dot) stuff (at sign) protonmail (dot) com~.
+
+Cheers, hope you enjoy reading this "not a blog."
