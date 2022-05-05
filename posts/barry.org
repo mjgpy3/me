@@ -2,7 +2,7 @@
 #+date: <2022-05-04 21:03>
 #+filetags: bad_poetry word_play
 
-#+begin_quote
+#+begin_src 
 I am not that swift little progeny; listless, flowering throughout
 (Claims Barry)
 Turn now won returns and fold your hands until lit cards disintegrate
@@ -14,4 +14,4 @@ Bargaining in that big brain, without my knowing, Barry will burp a laugh -- tha
 Barry can barely bare the baritone bereavements of the barreling bare bear
 (He's had a long day)
 Established is he, the lad at the blessed stable, lashed lest he bled
-#+end_quote
+#+end_src
