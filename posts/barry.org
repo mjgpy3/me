@@ -2,7 +2,7 @@
 #+date: <2022-05-04 21:03>
 #+filetags: bad_poetry word_play
 
-#+begin_src 
+#+begin_src
 I am not that swift little progeny; listless, flowering throughout
 (Claims Barry)
 Turn now won returns and fold your hands until lit cards disintegrate
