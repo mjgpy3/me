@@ -1,0 +1,72 @@
+#+title: Mini-ramp-o-pedia
+#+date: <2022-05-10 22:00>
+#+filetags: skateboarding list tricks
+
+* What is this?
+
+One man's humble attempt to make a video encyclopedia of /all/ mini ramp skateboarding tricks.
+
+* The Tricks
+
+** Below the Coping
+*** Kick Turn
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13KRsCcbs74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+
+*** Frontside Kick Turn
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3nwtBlXGkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+    
+*** Fakie Kick Turn To Fakie
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YvhopYZAJLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+#+end_export 
+
+*** Fakie 360 Turn
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2MaRVG7FEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+     
+** Slashers
+*** Slash Grind
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRuSN4ENSd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+   
+** Drop In Variants
+*** Drop In
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCQgFFqaqtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+
+*** Axle Drop In
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h03vdQNfQj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+
+*** Frontside Axle Drop In
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tOdTzBzQW0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+
+*** Bomb Drop In
+    
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbbZ1mewlBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+
+** Stalls
+*** Fakie Tail Stall   
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7n38RLfozxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
