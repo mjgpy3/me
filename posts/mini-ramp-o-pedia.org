@@ -7,7 +7,6 @@
 One man's humble attempt to make a video encyclopedia of /all/ mini ramp skateboarding tricks.
 
 * The Tricks
-
 ** Below the Coping
 *** Kick Turn
     
@@ -66,7 +65,15 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 #+end_export 
 
 ** Stalls
-*** Fakie Tail Stall   
+*** Fakie Tail Stall
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7n38RLfozxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Nose Stall
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CEtccn1ZM5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+*** Axle Stall
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z3f_CwMCuc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export 
