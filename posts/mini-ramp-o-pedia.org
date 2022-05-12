@@ -64,7 +64,7 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbbZ1mewlBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export 
 
-** Stalls
+** Lip Tricks
 *** Fakie Tail Stall
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7n38RLfozxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -77,3 +77,20 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z3f_CwMCuc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export 
+
+*** Frontside Axle Stall
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smLPwvmlWtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Pivot
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YE1OMg54tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Rock To Fakie
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q8mYKUIIHvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Rock And Roll
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FB4DZzapkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
