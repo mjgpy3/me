@@ -32,13 +32,6 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S2MaRVG7FEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export 
      
-** Slashers
-*** Slash Grind
-
-#+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HRuSN4ENSd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#+end_export 
-   
 ** Drop In Variants
 *** Drop In
     
@@ -65,6 +58,13 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 #+end_export 
 
 ** Lip Tricks
+*** Slashers
+**** Slash Grind
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRuSN4ENSd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+   
 *** Fakie Tail Stall
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7n38RLfozxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -77,7 +77,6 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z3f_CwMCuc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export 
-
 *** Frontside Axle Stall
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smLPwvmlWtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -85,6 +84,10 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 *** Pivot
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3YE1OMg54tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Fakie 5-0 Stall
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6g3gbQ3RAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export 
 *** Rock To Fakie
 #+begin_export html
@@ -94,3 +97,15 @@ One man's humble attempt to make a video encyclopedia of /all/ mini ramp skatebo
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_FB4DZzapkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
+*** Half Cab Rock To Fakie
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IdUPiZoZuGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Full Cab Rock and Roll
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H98ns4MVB3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
+*** Fakie Smith Stall
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RKQ-uU_m16c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export 
