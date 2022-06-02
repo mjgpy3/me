@@ -90,7 +90,7 @@ I don't read much poetry but I wanted to change that this year. I figured this w
 
 This proved to be a good collection. The only difficulty I had with it was that the word-for-word translation doesn't yield the /best/ English. Parts were tricky to understand.
 
-The poem that stood out most from the collection was [[https://russianuniverse.org/2014/09/24/slanderers-of-russia/][/Slanderers of Russia/]] especially in light of current events.
+The poem that stood out most from the collection was [[https://russianuniverse.org/2014/09/24/slanderers-of-russia/][Slanderers of Russia]] especially in light of current events.
   
 | *Why I read it*               | I like Russian literature and wanted to try more poetry |
 | *Recommend for*               | Anyone who likes poetry and/or Russian literature       |
@@ -100,6 +100,10 @@ The poem that stood out most from the collection was [[https://russianuniverse.o
 | *Special accolades*           |                                                         |
   
 * /How Design Makes the World/ (★★★☆☆ 3/5)
+
+This was a good introductory text to design principles. My favorite parts were the anecdotes and examples of design anti-patterns and incongruities.
+
+I would give it a higher rating if it were (1) less preachy, and (2) more substantial.
   
 | *Why I read it*               | Gift from family member                                                |
 | *Recommend for*               | Folks interested in design, after reading some of the staples first... |
