@@ -44,6 +44,12 @@ This was a very nice book along the vein of other Orthodox spirituality books I'
 | *Special accolades*           |                                                           |
 
 * /The Rust Programming Language/ (★★★★⯪ 4.5/5)
+
+This was a good programming language introduction book. It
+ - wasn't dry
+ - had compelling examples to muck around with
+ - introduces concepts in a logical order and pace, and
+ - gave enough of an intro without delving too deep
   
 | *Why I read it*               | I was trying to learn Rust           |
 | *Recommended for*             | Folks who are interested in Rust     |
@@ -53,14 +59,25 @@ This was a very nice book along the vein of other Orthodox spirituality books I'
 | *Special accolades*           |                                      |
   
 * /The Republic of Thieves/ (★★⯪☆☆ 2.5/5)
-  
-| *Why I read it*               | Continue series whose first book was a friend's recommendation |
-| *Recommend for*               | Die hard fans of the series                                    |
-| *Approx. time I took to read* | 2 weeks                                                        |
-| *One sentence summary*        | Continued adventures of "The Gentlemen Bastards"               |
-| *Standalone*                  | No                                                             |
-| *Special accolades*           |                                                                |
-  
+
+I read this book quickly because I wanted to get to the "good" part. Unfortunately I can't say that there was a good part. It had its entertaining moments, to be sure, but the bar was set too high by the first too books. The first book, /The Lies of Locke Lamora/ is superb. The second book -- a good follow up. This book lost me.
+
+The things that I didn't like were
+ - the "political espionage" narrative was dull
+ - the "acting troupe" flashbacks were uncompelling (I wanted to skip them as I read them)
+ - I predicted every major twist (whereas the first two books constantly surprised me)
+ - the love interest character was insufferable
+ - I could, at risk of spoiling the book, summarize it in a few sentences
+ - the book only yielded one new plot development to the overarching story
+ - this plot development could arguably be plot regression (I'm being vague as I don't wanna spoil anything)
+
+| *Why I read it*               | Continue series (first book was a friend's recommendation) |
+| *Recommend for*               | Die hard fans of the series                                |
+| *Approx. time I took to read* | 2 weeks                                                    |
+| *One sentence summary*        | Continued adventures of "The Gentlemen Bastards"           |
+| *Standalone*                  | No                                                         |
+| *Special accolades*           | /Potential series drop-off/                                |
+
 * /Endurance/ (★★★★★ 5/5)
 
 This story is gripping. It is, without a doubt, my "book of the year" pick.
@@ -101,7 +118,7 @@ The poem that stood out most from the collection was [[https://russianuniverse.o
   
 * /How Design Makes the World/ (★★★☆☆ 3/5)
 
-This was a good introductory text to design principles. My favorite parts were the anecdotes and examples of design anti-patterns and incongruities.
+This was a good introduction to design principles. My favorite parts were the anecdotes and examples of design anti-patterns and incongruities.
 
 I would give it a higher rating if it were (1) less preachy, and (2) more substantial.
   
@@ -113,13 +130,13 @@ I would give it a higher rating if it were (1) less preachy, and (2) more substa
 | *Special accolades*           |                                                                        |
   
 * /On the Cosmic Mystery of Jesus Christ/ (★★★★★ 5/5)
-  
+
 | *Why I read it*               | I wanted to re-read writings by Maximus                          |
 | *Recommend for*               | Anyone interested in Church Fathers, Christology, story of Jonah |
 | *Approx. time I took to read* | 3 weeks                                                          |
 | *One sentence summary*        |                                                                  |
 | *Standalone*                  | Yes                                                              |
-| *Special accolades*           |                                                                  |
+| *Special accolades*           | /Re-read/                                                        |
   
 * /Moby Dick/ (★★★★★ 5/5)
   
@@ -150,12 +167,12 @@ I would give it a higher rating if it were (1) less preachy, and (2) more substa
   
 * /Notes from the Underground/ (★★★★★ 5/5)
   
-| *Why I read it*               | I wanted to record an audiobook and this felt like a good starting place; Dostoevsky is my favorite author   |
-| *Recommend for*               | Fans of Dosteovsky, and/or Russian literature                                                                |
-| *Approx. time I took to read* | 2 weeks                                                                                                      |
-| *One sentence summary*        | The unnamed "underground man" narrates his exploits                                                          |
-| *Standalone*                  | Yes                                                                                                          |
-| *Special accolades*           |                                                                                                              |
+| *Why I read it*               | I wanted to record an audiobook and this felt like a good starting place; Dostoevsky is my favorite author |
+| *Recommend for*               | Fans of Dosteovsky, and/or Russian literature                                                              |
+| *Approx. time I took to read* | 2 weeks                                                                                                    |
+| *One sentence summary*        | The unnamed "underground man" narrates his exploits                                                        |
+| *Standalone*                  | Yes                                                                                                        |
+| *Special accolades*           | /Re-read/                                                                                                  |
   
 * /War and Peace/ (★★★★★ 5/5)
   
@@ -173,6 +190,7 @@ I have more notes recorded for this book than for others. Why? It was a book clu
 Things I didn't like
  - Felt like a collection of side-quests
  - No major resolution for such a long (intro) book
+ - Chapter-ending quips got old quickly
  - Characters felt 1-dimensional (couldn't distinguish his friends, women all seemed like the same character)
  - Lots of repetition: gotta make tuition trope, main character always "realizes female character X is beautiful"
  - Auri (sewer girl) gave off an odd anime, crazy and cutesy vibe and I found myself cringing while reading this character
