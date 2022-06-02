@@ -8,12 +8,12 @@ It's difficult to rate a collection of short stories. Even more so, it's difficu
 
 Of course, I'm a little biased -- Dostoevsky is my favorite author. Though this is the case, at times I've struggled to finish his longer works. The short stories were wonderful because they were each gripping and, well, short!
 
-| *How I found it*              | I sought it out                                                        |
-| *Recommend for*               | Readers of classics, short stories, Russian literature, Dosteovsky     |
-| *"Buy test"*                  | I would buy this for a friend who falls into the *recommended for* set |
-| *Approx. time I took to read* | A month                                                                |
-| *One sentence summary*        | Mishaps in Russia and the psychology of an 19th Century Russian        |
-| *Standalone*                  | Yes                                                                    |
+| *Why I read it*               | Dostoevsky is my favorite author                                      |
+| *Recommended for*             | Readers of classics, short stories, Russian literature, or Dosteovsky |
+| *Approx. time I took to read* | A month                                                               |
+| *One sentence summary*        | Mishaps in Russia and the psychology of 19th Century Russians         |
+| *Standalone*                  | Yes                                                                   |
+| *Special accolades*           |                                                                       |
   
 * /I'm Thinking of Ending Things/ (★★★⯪☆ 3.5/5)
 
@@ -25,49 +25,126 @@ As book club books go, it was a pretty good one and spurred some interesting dis
  - the book club questions in the back of the novel are no where near as interesting as they could be.
  - don't expect the movie to be /anything/ like the book. Aside from bearing the same title and having a few events in common, they are practically unrelated.
 
-| *How I found it*              | Picked by other member of book club                              |
-| *Recommend for*               | Readers of psychological thrillers, folks who like "weird" books |
-| *"Buy test"*                  | I probably wouldn't buy it for anyone                            |
+| *Why I read it*               | Book club                                                        |
+| *Recommended for*             | Readers of psychological thrillers, folks who like "weird" books |
 | *Approx. time I took to read* | A week                                                           |
 | *One sentence summary*        | Young lovers float along a river of oddity                       |
 | *Standalone*                  | Yes                                                              |
+| *Special accolades*           | /Most Unlike Its Film Adaptation/                                |
   
 * /Our Thoughts Determine Our Lives/ (★★★★⯪ 4.5/5)
   
 This was a very nice book along the vein of other Orthodox spirituality books I've read in recent years. Elder Thaddeus lived a most interesting life, filled with many spiritual lessons. This book is an expounding thereabouts.
   
-| *How I found it*              | Saw it in our church's bookstore                                          |
-| *Recommend for*               | Orthodox Christians or those interested in spiritual life                 |
-| *"Buy test"*                  | I would buy this for friends who fall into the  *recommended for* section |
-| *Approx. time I took to read* | Three weeks                                                               |
-| *One sentence summary*        | Our thoughts determine our lives                                          |
-| *Standalone*                  | Yes                                                                       |
+| *Why I read it*               | Seemed like a good concept                                |
+| *Recommended for*             | Orthodox Christians or those interested in spiritual life |
+| *Approx. time I took to read* | Three weeks                                               |
+| *One sentence summary*        | Our thoughts determine our lives                          |
+| *Standalone*                  | Yes                                                       |
+| *Special accolades*           |                                                           |
 
-* /The Rust Programming Language/ 
+* /The Rust Programming Language/ (★★★★⯪ 4.5/5)
   
-* /The Republic of Thieves/ 
+| *Why I read it*               | I was trying to learn Rust           |
+| *Recommended for*             | Folks who are interested in Rust     |
+| *Approx. time I took to read* | Three weeks                          |
+| *One sentence summary*        | Overview of the programming language |
+| *Standalone*                  | Yes                                  |
+| *Special accolades*           |                                      |
   
-* /Endurance/ 
+* /The Republic of Thieves/ (★★⯪☆☆ 2.5/5)
   
-* /Pushkin Poems/ 
+| *Why I read it*               | Continue series whose first book was a friend's recommendation |
+| *Recommend for*               | Die hard fans of the series                                    |
+| *Approx. time I took to read* | 2 weeks                                                        |
+| *One sentence summary*        | Continued adventures of "The Gentlemen Bastards"               |
+| *Standalone*                  | No                                                             |
+| *Special accolades*           |                                                                |
   
-* /How Design Makes the World/ 
+* /Endurance/ (★★★★★ 5/5)
   
-* /On the Cosmic Mystery of Jesus Christ/ 
+| *Why I read it*               | Friend's recommendation                    |
+| *Recommend for*               | Anyone who reads, or listens to audiobooks |
+| *Approx. time I took to read* | 1 week (only 3 sittings)                   |
+| *One sentence summary*        | Endurance in the midst of impossible odds  |
+| *Standalone*                  | Yes                                        |
+| *Special accolades*           | /Will buy copies as gifts/                 |
   
-* /Moby Dick/
+* /Pushkin Poems/ (★★★★☆ 4/5)
   
-* /On the Divine Images/ 
+| *Why I read it*               | I like Russian literature and wanted to try more poetry |
+| *Recommend for*               | Anyone who likes poetry and/or Russian literature       |
+| *Approx. time I took to read* | 1 month                                                 |
+| *One sentence summary*        | Russian poetry collection                               |
+| *Standalone*                  | Yes                                                     |
+| *Special accolades*           |                                                         |
   
-* /Early Christian Doctrines/ 
+* /How Design Makes the World/ (★★★☆☆ 3/5)
   
-* /The Name of the Wind/ 
+| *Why I read it*               | Gift from family member                                          |
+| *Recommend for*               | Folks interested in design, after reading some of the staples... |
+| *Approx. time I took to read* | 2 weeks                                                          |
+| *One sentence summary*        |                                                                  |
+| *Standalone*                  | Yes                                                              |
+| *Special accolades*           |                                                                  |
   
-* /Notes from the Underground/ 
+* /On the Cosmic Mystery of Jesus Christ/ (★★★★★ 5/5)
   
-* /War and Peace/
+| *Why I read it*               | I wanted to re-read writings by Maximus                          |
+| *Recommend for*               | Anyone interested in Church Fathers, Christology, story of Jonah |
+| *Approx. time I took to read* | 3 weeks                                                          |
+| *One sentence summary*        |                                                                  |
+| *Standalone*                  | Yes                                                              |
+| *Special accolades*           |                                                                  |
+  
+* /Moby Dick/ (★★★★★ 5/5)
+  
+| *Why I read it*               | After reading /Endurance/ and /Red Seas Under Red Skies/ (last year) I wanted more seafaring literature; it's a classic |
+| *Recommend for*               | Anyone interested in classics, seafaring tales, whales, and/or poetic literature                                        |
+| *Approx. time I took to read* | 20 days                                                                                                                 |
+| *One sentence summary*        | A mad captain's unrelenting quest for vengeance                                                                         |
+| *Standalone*                  | Yes                                                                                                                     |
+| *Special accolades*           |                                                                                                                         |
+  
+* /On the Divine Images/ (★★★★★ 5/5)
+  
+| *Why I read it*               | I wanted to better understand the Church's stance on icons and arguments against iconoclasm |
+| *Recommend for*               | Anyone interested in Church Fathers, icons, and/or iconoclastic controversy                 |
+| *Approx. time I took to read* | 1 week                                                                                      |
+| *One sentence summary*        | Three letters in defense of icons                                                           |
+| *Standalone*                  | Yes                                                                                         |
+| *Special accolades*           |                                                                                             |
+  
+* /Early Christian Doctrines/ (★★★★⯪ 4.5/5)
+  
+| *Why I read it*               | I wanted to understand more about what the early Church believed     |
+| *Recommend for*               | Anyone interested in early doctrines and controversies in the church |
+| *Approx. time I took to read* | 2 months                                                             |
+| *One sentence summary*        | Exploration of early doctrines and controversies in the church       |
+| *Standalone*                  | Yes                                                                  |
+| *Special accolades*           |                                                                      |
+  
+* /Notes from the Underground/ (★★★★★ 5/5)
+  
+| *Why I read it*               | I wanted to record an audiobook and this felt like a good starting place; Dostoevsky is my favorite author   |
+| *Recommend for*               | Fans of Dosteovsky, and/or Russian literature                                                                |
+| *Approx. time I took to read* | 2 weeks                                                                                                      |
+| *One sentence summary*        | The unnamed "underground man" narrates his exploits                                                          |
+| *Standalone*                  | Yes                                                                                                          |
+| *Special accolades*           |                                                                                                              |
+  
+* /War and Peace/ (★★★★★ 5/5)
+  
+| *Why I read it*               | I enjoy Russian literature and this is a staple              |
+| *Recommend for*               | Die hard readers, fans of classics and/or Russian literature |
+| *Approx. time I took to read* | 2 months                                                     |
+| *One sentence summary*        | An exploration of war's affect on families                   |
+| *Standalone*                  | Yes                                                          |
+| *Special accolades*           |                                                              |
   
 * /The Name of the Wind/ (★★⯪☆☆ 2.5/5)
+
+I have more notes recorded for this book than for others. Why? It was a book club book, so I wanted to record my thoughts upon finishing reading it.
 
 Things I didn't like
  - Felt like a collection of side-quests
@@ -87,11 +164,47 @@ I think I would have enjoyed this more if I had
  - Known it wouldn't resolve anything (and that the second book was so long and third forthcoming)
  - Not read /The Lies of Locke Lamora/ so recently which had similarities but set too high a bar
 
-The book was fan-service to reading. The main character's dream place was the Archives, he was seeking stories and look at the setting. A scribe was transcribing Kovthe telling his story, which at times even included embedded story tellers.
+The book was fan-service to reading. The main character's dream place was the Archives, he was seeking stories and look at the setting. A scribe was transcribing Kvothe telling his story, which at times even included embedded story tellers.
 
-| *How I found it*              | Picked by other member of book club                               |
+| *Why I read it*               | Book club                                                         |
 | *Recommend for*               | Fans of young adult fantasy                                       |
-| *"Buy test"*                  | I would only buy this for a friend who specifically asked for it  |
 | *Approx. time I took to read* | A week and a half                                                 |
 | *One sentence summary*        | The childhood backstory of an incredibly gifted mage and musician |
 | *Standalone*                  | No                                                                |
+| *Special accolades*           |                                                                   |
+
+* /Maybe Haskell/ (★★★★⯪ 4.5/5)
+  
+| *Why I read it*               | Work book club                                             |
+| *Recommend for*               | Folks who want a taste of what Haskell brings to the table |
+| *Approx. time I took to read* | 1 month                                                    |
+| *One sentence summary*        | How Haskell avoids ~null~                                  |
+| *Standalone*                  | Yes                                                        |
+| *Special accolades*           |                                                            |
+
+* /The Blade Itself/ (★★★★★ 5/5)
+  
+| *Why I read it*               | Friend's recommendation          |
+| *Recommend for*               | Any fantasy readers              |
+| *Approx. time I took to read* | 2 weeks                          |
+| *One sentence summary*        | War against the north is brewing |
+| *Standalone*                  | No                               |
+| *Special accolades*           |                                  |
+  
+* /How To Speak So That People Will Listen/ (★★★★⯪ 4.5/5)
+  
+| *Why I read it*               | Gift from family member                                |
+| *Recommend for*               | Anyone who is looking to improve their public speaking |
+| *Approx. time I took to read* | 2 days                                                 |
+| *One sentence summary*        | Tips for having confidence in public speaking          |
+| *Standalone*                  | Yes                                                    |
+| *Special accolades*           |                                                        |
+
+* /Beginning To Pray/ (★★★★⯪ 4.5/5)
+
+| *Why I read it*               | Church book club                              |
+| *Recommend for*               | Folks exploring prayer and the spiritual life |
+| *Approx. time I took to read* | 1 month                                       |
+| *One sentence summary*        | Prayer is not what you think it is            |
+| *Standalone*                  | Yes                                           |
+| *Special accolades*           |                                               |
