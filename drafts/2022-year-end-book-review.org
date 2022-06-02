@@ -75,7 +75,7 @@ My refrain when reading this book was
 It's like those movies where the characters keep surviving impossible situations and you think "there's no way someone could /actually/ live through that!" Except this isn't fantasy -- it's real. And the peril is frequent and only gets more extreme.
 #+end_quote
 
-A brief note if you're reading a recent copy. If you don't know how it ends and want to avoid spoilers **defer looking at the pictures in the book until after you've read it**. The pictures contain spoilers!
+A brief note if you're reading a recent copy: if you don't know how it ends and want to avoid spoilers **defer looking at the pictures in the book until after you've read it**. The pictures contain spoilers!
   
 | *Why I read it*               | Friend's recommendation                        |
 | *Recommend for*               | Anyone who reads, or listens to audiobooks     |
@@ -85,6 +85,12 @@ A brief note if you're reading a recent copy. If you don't know how it ends and 
 | *Special accolades*           | /Will buy copies as gifts/, /Book of the year/ |
   
 * /Pushkin Poems/ (★★★★☆ 4/5)
+
+I don't read much poetry but I wanted to change that this year. I figured this would be a good starting place since I enjoy Russian literature and enjoyed reading Pushkin's short stories last year.
+
+This proved to be a good collection. The only difficulty I had with it was that the word-for-word translation doesn't yield the /best/ English. Parts were tricky to understand.
+
+The poem that stood out most from the collection was [[https://russianuniverse.org/2014/09/24/slanderers-of-russia/][/Slanderers of Russia/]] especially in light of current events.
   
 | *Why I read it*               | I like Russian literature and wanted to try more poetry |
 | *Recommend for*               | Anyone who likes poetry and/or Russian literature       |
@@ -95,12 +101,12 @@ A brief note if you're reading a recent copy. If you don't know how it ends and 
   
 * /How Design Makes the World/ (★★★☆☆ 3/5)
   
-| *Why I read it*               | Gift from family member                                          |
-| *Recommend for*               | Folks interested in design, after reading some of the staples... |
-| *Approx. time I took to read* | 2 weeks                                                          |
-| *One sentence summary*        |                                                                  |
-| *Standalone*                  | Yes                                                              |
-| *Special accolades*           |                                                                  |
+| *Why I read it*               | Gift from family member                                                |
+| *Recommend for*               | Folks interested in design, after reading some of the staples first... |
+| *Approx. time I took to read* | 2 weeks                                                                |
+| *One sentence summary*        |                                                                        |
+| *Standalone*                  | Yes                                                                    |
+| *Special accolades*           |                                                                        |
   
 * /On the Cosmic Mystery of Jesus Christ/ (★★★★★ 5/5)
   
