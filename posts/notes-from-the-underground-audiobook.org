@@ -1,4 +1,4 @@
-#+title: /Notes from the Underground/ Audiobook
+#+title: New Audiobook: Notes from the Underground
 #+date: <2022-05-15 00:57>
 #+filetags: audiobook dostoevsky
 
