@@ -8,6 +8,7 @@ It's difficult to rate a collection of short stories. Even more so, it's difficu
 
 Of course, I'm a little biased -- Dostoevsky is my favorite author. Though this is the case, at times I've struggled to finish his longer works. The short stories were wonderful because they were each gripping and, well, short!
 
+| *Author*                      | Fyodor Dostoevsky                                                     |
 | *Why I read it*               | Dostoevsky is my favorite author                                      |
 | *Recommended for*             | Readers of classics, short stories, Russian literature, or Dosteovsky |
 | *Approx. time I took to read* | A month                                                               |
@@ -25,6 +26,7 @@ As book club books go, it was a pretty good one and spurred some interesting dis
  - the book club questions in the back of the novel are no where near as interesting as they could be.
  - don't expect the movie to be /anything/ like the book. Aside from bearing the same title and having a few events in common, they are practically unrelated.
 
+| *Author*                      | Iain Reid                                                        |
 | *Why I read it*               | Book club                                                        |
 | *Recommended for*             | Readers of psychological thrillers, folks who like "weird" books |
 | *Approx. time I took to read* | A week                                                           |
@@ -36,6 +38,7 @@ As book club books go, it was a pretty good one and spurred some interesting dis
   
 This was a very nice book along the vein of other Orthodox spirituality books I've read in recent years. Elder Thaddeus lived a most interesting life, filled with many spiritual lessons. This book is an expounding thereabouts.
   
+| *Author*                      | Ana Smiljanic, Elder Thaddeus of Vitovnica                |
 | *Why I read it*               | Seemed like a good concept                                |
 | *Recommended for*             | Orthodox Christians or those interested in spiritual life |
 | *Approx. time I took to read* | Three weeks                                               |
@@ -51,6 +54,7 @@ This was a good programming language introduction book. It
  - introduces concepts in a logical order and pace, and
  - gave enough of an intro without delving too deep
   
+| *Author*                      | Steve Klabnik, Carol Nichols         |
 | *Why I read it*               | I was trying to learn Rust           |
 | *Recommended for*             | Folks who are interested in Rust     |
 | *Approx. time I took to read* | Three weeks                          |
@@ -71,6 +75,7 @@ The things that I didn't like were
  - the book only yielded one new plot development to the overarching story
  - this plot development could arguably be plot regression (I'm being vague as I don't wanna spoil anything)
 
+| *Author*                      | Scott Lynch                                                |
 | *Why I read it*               | Continue series (first book was a friend's recommendation) |
 | *Recommend for*               | Die hard fans of the series                                |
 | *Approx. time I took to read* | 2 weeks                                                    |
@@ -94,7 +99,8 @@ It's like those movies where the characters keep surviving impossible situations
 
 A brief note if you're reading a recent copy: if you don't know how it ends and want to avoid spoilers **defer looking at the pictures in the book until after you've read it**. The pictures contain spoilers!
   
-| *Why I read it*               | Friend's recommendation                        |
+| *Author*                      | Alfred Lansing, Nathaniel Philbrick            |
+| *Why I read it*               | Friend's recommendation; my book club pick     |
 | *Recommend for*               | Anyone who reads, or listens to audiobooks     |
 | *Approx. time I took to read* | 1 week (only 3 sittings)                       |
 | *One sentence summary*        | Endurance in the midst of impossible odds      |
@@ -109,6 +115,7 @@ This proved to be a good collection. The only difficulty I had with it was that 
 
 The poem that stood out most from the collection was [[https://russianuniverse.org/2014/09/24/slanderers-of-russia/][Slanderers of Russia]] especially in light of current events.
   
+| *Author*                      | Alexander Pushkin, Sean Harrison, et al.                |
 | *Why I read it*               | I like Russian literature and wanted to try more poetry |
 | *Recommend for*               | Anyone who likes poetry and/or Russian literature       |
 | *Approx. time I took to read* | 1 month                                                 |
@@ -122,6 +129,7 @@ This was a good introduction to design principles. My favorite parts were the an
 
 I would give it a higher rating if it were (1) less preachy, and (2) more substantial. I don't want to get into this here but it's clear that the author and I have competing philosophies of the world.
   
+| *Author*                      | Scott Berkun                                                           |
 | *Why I read it*               | Gift from family member                                                |
 | *Recommend for*               | Folks interested in design, after reading some of the staples first... |
 | *Approx. time I took to read* | 2 weeks                                                                |
@@ -133,6 +141,7 @@ I would give it a higher rating if it were (1) less preachy, and (2) more substa
 
 This was a very nice, albeit small, collection of the writings of Maximus the Confessor. I won't get into too many specifics other than to say that his exposition of the story of Jonah really made me think.
 
+| *Author*                      | St. Maximus the Confessor, Paul M. Blowers, et al.               |
 | *Why I read it*               | I wanted to re-read writings by Maximus                          |
 | *Recommend for*               | Anyone interested in Church Fathers, Christology, story of Jonah |
 | *Approx. time I took to read* | 3 weeks                                                          |
@@ -150,6 +159,7 @@ I learned a ton from this book. Not only about whales but also about good storyt
 
 I enjoyed this book and it shows! I read it at the same time as a few other books but managed to finish it in short order.
 
+| *Author*                      | Herman Melville                                                                                                         |
 | *Why I read it*               | After reading /Endurance/ and /Red Seas Under Red Skies/ (last year) I wanted more seafaring literature; it's a classic |
 | *Recommend for*               | Anyone interested in classics, seafaring tales, whales, and/or poetic literature                                        |
 | *Approx. time I took to read* | 20 days                                                                                                                 |
@@ -161,6 +171,7 @@ I enjoyed this book and it shows! I read it at the same time as a few other book
 
 Though I've heard many of the points made in this book before, I've never heard them presented so well in unity. It was a little repetitive at points but that's how you make a point.
   
+| *Author*                      | Saint John, of Damascus, et al.                                                             |
 | *Why I read it*               | I wanted to better understand the Church's stance on icons and arguments against iconoclasm |
 | *Recommend for*               | Anyone interested in Church Fathers, icons, church history, or who is skeptical of icons    |
 | *Approx. time I took to read* | 1 week                                                                                      |
@@ -182,6 +193,7 @@ That being so, I enjoy a challenge. I learned a ton from this book and I will re
 
 Kelly does a nice job citing many primary sources. You'll be sure to learn from this book should you pick this up.
   
+| *Author*                      | J. N. D. Kelly                                                                                      |
 | *Why I read it*               | I wanted to understand more about what the early Church believed; recommendation from family member |
 | *Recommend for*               | Anyone interested in early doctrines and controversies in the church                                |
 | *Approx. time I took to read* | 2 months                                                                                            |
@@ -193,6 +205,7 @@ Kelly does a nice job citing many primary sources. You'll be sure to learn from 
   
 If you haven't figured it out by now, Dosteovsky is my favorite author. I decided to re-read this book as my first [[https://mjgpy3.github.io/me/notes-from-the-underground-audiobook.html][audiobook project]] this year. It's a great book that's equal parts frustrating, touching, thought-provoking and schizophrenic (in all the best ways). It's a short classic that's dense with lessons for moderns.
   
+| *Author*                      | Fyodor Dostoevsky                                                                                          |
 | *Why I read it*               | I wanted to record an audiobook and this felt like a good starting place; Dostoevsky is my favorite author |
 | *Recommend for*               | Fans of Dosteovsky, and/or Russian literature                                                              |
 | *Approx. time I took to read* | 2 weeks                                                                                                    |
@@ -210,6 +223,7 @@ But, I'm glad that I read this translation. It may have been a bit jumpy but was
 
 The characters and their interactions make this book. Character arcs are superb. The players reveal themselves through their actions and interactions. You may find that in each third of the book your opinion of a character transforms from disinterest to detest then to pity. By the end, your favorite characters may be those you least expected when you met them.
   
+| *Author*                      | Leo Tolstoy                                                  |
 | *Why I read it*               | I enjoy Russian literature and this is a staple              |
 | *Recommend for*               | Die hard readers, fans of classics and/or Russian literature |
 | *Approx. time I took to read* | 2 months                                                     |
@@ -242,6 +256,7 @@ I think I would have enjoyed this more if I had
 
 The book was fan-service to reading. The main character's dream place was the Archives, he was seeking stories and look at the setting. A scribe was transcribing Kvothe telling his story, which at times even included embedded story tellers.
 
+| *Author*                      | Patrick Rothfuss                                                  |
 | *Why I read it*               | Book club                                                         |
 | *Recommend for*               | Fans of young adult fantasy                                       |
 | *Approx. time I took to read* | A week and a half                                                 |
@@ -251,6 +266,9 @@ The book was fan-service to reading. The main character's dream place was the Ar
 
 * /Maybe Haskell/ (★★★★⯪ 4.5/5)
   
+We read this book at my work in a Haskell programming language learning group. This book, by my estimation, is an excellent appetizer for Haskell. Grab a copy of this book if you want to see Haskell's unique approach to avoiding ~null~.
+  
+| *Author*                      | Pat Brisbin                                                |
 | *Why I read it*               | Work book club                                             |
 | *Recommend for*               | Folks who want a taste of what Haskell brings to the table |
 | *Approx. time I took to read* | 1 month                                                    |
@@ -260,6 +278,7 @@ The book was fan-service to reading. The main character's dream place was the Ar
 
 * /The Blade Itself/ (★★★★★ 5/5)
   
+| *Author*                      | Joe Abercrombie                  |
 | *Why I read it*               | Friend's recommendation          |
 | *Recommend for*               | Any fantasy readers              |
 | *Approx. time I took to read* | 2 weeks                          |
@@ -269,6 +288,7 @@ The book was fan-service to reading. The main character's dream place was the Ar
   
 * /How To Speak So That People Will Listen/ (★★★★⯪ 4.5/5)
   
+| *Author*                      | John Walton                                            |
 | *Why I read it*               | Gift from family member                                |
 | *Recommend for*               | Anyone who is looking to improve their public speaking |
 | *Approx. time I took to read* | 2 days                                                 |
@@ -278,6 +298,7 @@ The book was fan-service to reading. The main character's dream place was the Ar
 
 * /Beginning To Pray/ (★★★★⯪ 4.5/5)
 
+| *Author*                      | Metropolitan Anthony Bloom                    |
 | *Why I read it*               | Church book club                              |
 | *Recommend for*               | Folks exploring prayer and the spiritual life |
 | *Approx. time I took to read* | 1 month                                       |
