@@ -1,6 +1,6 @@
 #+title: 2022 Year End Book Review
 #+date: <TODO>
-#+filetags: reading review
+#+filetags: reading review orthodox books dostoevsky dickens sea
 
 * /The Complete Short Stories of Fyodor Dostoevsky/ (★★★★★ 5/5)
 
@@ -141,7 +141,15 @@ This was a very nice, albeit small, collection of the writings of Maximus the Co
 | *Special accolades*           | /Re-read/                                                        |
   
 * /Moby Dick/ (★★★★★ 5/5)
-  
+
+I've always felt that this book has a stigma as being stodgy. This couldn't be farther from the truth. This book is wonderful. It's a poetic journey that's filled with comedy, adventure, and a deep exposition of all things whales and whaling.
+
+Speaking of whale exposition, this book has heaps of it. I've heard folks recommend skipping such details and only reading the narrative. I would not recommend this. Though sometimes tangential, the expositions unify and supplement the plot. They're filled with gems and instill gravity to the proceedings.
+
+I learned a ton from this book. Not only about whales but also about good storytelling. I also learned about my many shortcomings. I lost count of the number of historical and mythological references Melville makes that went over my head.
+
+I enjoyed this book and it shows! I read it at the same time as a few other books but managed to finish it in short order.
+
 | *Why I read it*               | After reading /Endurance/ and /Red Seas Under Red Skies/ (last year) I wanted more seafaring literature; it's a classic |
 | *Recommend for*               | Anyone interested in classics, seafaring tales, whales, and/or poetic literature                                        |
 | *Approx. time I took to read* | 20 days                                                                                                                 |
@@ -150,24 +158,40 @@ This was a very nice, albeit small, collection of the writings of Maximus the Co
 | *Special accolades*           |                                                                                                                         |
   
 * /On the Divine Images/ (★★★★★ 5/5)
+
+Though I've heard many of the points made in this book before, I've never heard them presented so well in unity. It was a little repetitive at points but that's how you make a point.
   
 | *Why I read it*               | I wanted to better understand the Church's stance on icons and arguments against iconoclasm |
-| *Recommend for*               | Anyone interested in Church Fathers, icons, and/or iconoclastic controversy                 |
+| *Recommend for*               | Anyone interested in Church Fathers, icons, church history, or who is skeptical of icons    |
 | *Approx. time I took to read* | 1 week                                                                                      |
 | *One sentence summary*        | Three letters in defense of icons                                                           |
 | *Standalone*                  | Yes                                                                                         |
 | *Special accolades*           |                                                                                             |
   
 * /Early Christian Doctrines/ (★★★★⯪ 4.5/5)
+
+This was the most challenging book I read this year.
+
+What made it challenging?
+
+ - It presented /tons/ of theologies, across many centuries, many of which conflict.
+ - These theologies are often not simple. Undoubtedly, I didn't grasp them all.
+ - Church history itself is challenging: many figures, views, events, etc...
+
+That being so, I enjoy a challenge. I learned a ton from this book and I will reference it in the future.
+
+Kelly does a nice job citing many primary sources. You'll be sure to learn from this book should you pick this up.
   
-| *Why I read it*               | I wanted to understand more about what the early Church believed     |
-| *Recommend for*               | Anyone interested in early doctrines and controversies in the church |
-| *Approx. time I took to read* | 2 months                                                             |
-| *One sentence summary*        | Exploration of early doctrines and controversies in the church       |
-| *Standalone*                  | Yes                                                                  |
-| *Special accolades*           | /Most challenging/                                                   |
+| *Why I read it*               | I wanted to understand more about what the early Church believed; recommendation from family member |
+| *Recommend for*               | Anyone interested in early doctrines and controversies in the church                                |
+| *Approx. time I took to read* | 2 months                                                                                            |
+| *One sentence summary*        | Exploration of early doctrines and controversies in the church                                      |
+| *Standalone*                  | Yes                                                                                                 |
+| *Special accolades*           | /Most challenging/                                                                                  |
   
 * /Notes from the Underground/ (★★★★★ 5/5)
+  
+If you haven't figured it out by now, Dosteovsky is my favorite author. I decided to re-read this book as my first [[https://mjgpy3.github.io/me/notes-from-the-underground-audiobook.html][audiobook project]] this year. It's a great book that's equal parts frustrating, touching, thought-provoking and schizophrenic (in all the best ways). It's a short classic that's dense with lessons for moderns.
   
 | *Why I read it*               | I wanted to record an audiobook and this felt like a good starting place; Dostoevsky is my favorite author |
 | *Recommend for*               | Fans of Dosteovsky, and/or Russian literature                                                              |
