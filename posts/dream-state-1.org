@@ -1,0 +1,18 @@
+#+title: First Dream State
+#+date: <2022-06-07 00:08>
+#+filetags: bad_poetry
+
+#+begin_src 
+I recall falling asleep once, half in a dream, half not
+My cousin sat in his family van with me, we were going to the beach
+I already felt sand on my feet
+
+asleep
+
+Brother J. holds a slingshot and asks, "like this?"
+A CD flying towards my face at quickspeed
+
+gasp
+
+I awake with a start
+#+end_src
