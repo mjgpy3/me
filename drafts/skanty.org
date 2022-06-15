@@ -1,6 +1,6 @@
 #+title: Skanty
 #+date: TODO
-#+filetags: shanty skateboarding
+#+filetags: shanty skateboarding bad_poetry
 
 I roll on a wheely board and that suits me
 I slide down the ramp 'cuz I have no sea
