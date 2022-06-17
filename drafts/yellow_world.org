@@ -1,0 +1,27 @@
+#+title: Yellow World
+#+date: <2022-06-16 21:00>
+#+filetags: bad_poetry
+
+#+begin_src 
+A couple days a year
+After muggy summer heat
+The setting sun paints the world sepia
+
+These days
+In their rare splendor
+Remind me that life's like an old photograph
+
+Colors decay
+Edges wear down
+We're converging on a mellow respite
+
+Nothing breaks this
+Nothing hides it
+A device is hard pressed to distract us from its beauty
+
+We're tempted to reflect
+We ponder fearing the future
+But we can't for veneration of this wonderful moment
+
+As sepia turns to orange turns to gold turns to dark purple
+#+end_src
