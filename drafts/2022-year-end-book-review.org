@@ -124,7 +124,7 @@ The poem that stood out most from the collection was [[https://russianuniverse.o
 | *Special accolades*           |                                                         |
   
 * /How Design Makes the World/ (★★★☆☆ 3/5)
-
+  
 This was a good introduction to design principles. My favorite parts were the anecdotes and examples of design anti-patterns and incongruities.
 
 I would give it a higher rating if it were (1) less preachy, and (2) more substantial. I don't want to get into this here but it's clear that the author and I have competing philosophies of the world.
@@ -231,15 +231,15 @@ The characters and their interactions make this book. Character arcs are superb.
 | *Standalone*                  | Yes                                                          |
 | *Special accolades*           | /Stayed Up Till 3am to Finish/                               |
   
-* /The Name of the Wind/ (★★☆☆☆ 2/5)
+* /The Name of the Wind/ (★★⯪☆☆ 2.5/5)
 
 I have more notes recorded for this book than for others. Why? It was a book club book, so I wanted to record my thoughts upon finishing reading it.
 
 Things I didn't like
  - Felt like a collection of side-quests
- - No major resolution for such a long (intro) book
+ - No major resolution for such a long book
  - Chapter-ending quips got old quickly
- - Characters felt 1-dimensional (couldn't distinguish his friends, women all seemed like the same character)
+ - Characters felt 1-dimensional (couldn't distinguish his friends, female characters all seemed like carbon copies of each other)
  - Lots of repetition: gotta make tuition trope, main character always "realizes female character X is beautiful"
  - Auri (sewer girl) gave off an odd anime, crazy and cutesy vibe and I found myself cringing while reading this character
  - It felt like a Harry Potter wannabe at times
@@ -254,7 +254,7 @@ I think I would have enjoyed this more if I had
  - Known it wouldn't resolve anything (and that the second book was so long and third forthcoming)
  - Not read /The Lies of Locke Lamora/ so recently which had similarities but set too high a bar
 
-The book was fan-service to reading. The main character's dream place was the Archives, he was seeking stories and look at the setting. A scribe was transcribing Kvothe telling his story, which at times even included embedded story tellers.
+The book was fan-service to reading. The main character's dream place was the Archives, he was seeking stories and look at the setting. A scribe was transcribing Kvothe telling his story, which at times even included embedded story tellers. The book also made many specific callouts to other fantasy literature, in passing.
 
 | *Author*                      | Patrick Rothfuss                                                  |
 | *Why I read it*               | Book club                                                         |
