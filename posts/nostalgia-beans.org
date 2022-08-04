@@ -1,15 +1,19 @@
 #+title: Nostalgia Beans
-#+date: TODO
-#+filetags: shanty skateboarding bad_poetry
+#+date: <2022-08-03 23:35> 
+#+filetags: bad_poetry
 
-Red - Cherry
-Reminds me of Easter with my family -- my childhood home.
+#+begin_src 
+The other day I grabbed a handful of jelly beans
+From my kids' candy basket
+The flavors were familiar
+Though danties were dormant
+They brought me back to times past
 
 Orange - Orange
 Reminds me of getting sick after drinking an orange julius.
 
 Yellow - Lemon
-Reminds me of eating lemon marange pie at Mimi's with my great grandmother. She thought I stole her pie.
+Reminds me of eating lemon marange pie at Mimi's with my great grandmother. She thought I stole her pie -- she missed that I ordered the same.
 
 Green - Watermelon
 Reminds me of eating sour patch kids with my cousin, driving to the beach.
@@ -25,3 +29,7 @@ Reminds me of taking communion as a child -- grape juice.
 
 Pink - Strawberry
 Reminds me of eating airheads at Halloween. Hard to place exactly when.
+
+Red - Cherry
+Reminds me of Easter with my family -- my childhood home.
+#+end_src
