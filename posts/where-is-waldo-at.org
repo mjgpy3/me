@@ -1,0 +1,9 @@
+#+title: where is waldo at
+#+date: <2022-08-05 00:12>
+#+filetags: bad_poetry haiku
+
+#+begin_src 
+where is waldo at
+when I am afraid of death
+he laughs at my fears
+#+end_src
