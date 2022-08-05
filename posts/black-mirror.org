@@ -1,0 +1,9 @@
+#+title: black mirror
+#+date: <2022-08-05 00:17>
+#+filetags: bad_poetry haiku
+
+#+begin_src 
+black mirror in hand
+take me to that distant land
+i don't want to think
+#+end_src
