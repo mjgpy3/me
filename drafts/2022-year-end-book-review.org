@@ -8,13 +8,14 @@ It's difficult to rate a collection of short stories. Even more so, it's difficu
 
 Of course, I'm a little biased -- Dostoevsky is my favorite author. Though this is the case, at times I've struggled to finish his longer works. The short stories were wonderful because they were each gripping and, well, short!
 
-| *Author*                      | Fyodor Dostoevsky                                                     |
-| *Why I read it*               | Dostoevsky is my favorite author                                      |
-| *Recommended for*             | Readers of classics, short stories, Russian literature, or Dosteovsky |
-| *Approx. time I took to read* | A month                                                               |
-| *One sentence summary*        | Mishaps in Russia and the psychology of 19th Century Russians         |
-| *Standalone*                  | Yes                                                                   |
-| *Special accolades*           |                                                                       |
+| *Author*                      | Fyodor Dostoevsky                                                       |
+| *Why I read it*               | Dostoevsky is my favorite author                                        |
+| *Recommended for*             | Readers of classics, short stories, Russian literature, or Dosteovsky   |
+| *How did it challenge me?*    | Difficult language, psychological depth, interesting commentary. I wept |
+| *Approx. time I took to read* | A month                                                                 |
+| *One sentence summary*        | Mishaps in Russia and the psychology of 19th Century Russians           |
+| *Standalone*                  | Yes                                                                     |
+| *Special accolades*           |                                                                         |
   
 * /I'm Thinking of Ending Things/ (★★★⯪☆ 3.5/5)
 
@@ -29,6 +30,7 @@ As book club books go, it was a pretty good one and spurred some interesting dis
 | *Author*                      | Iain Reid                                                        |
 | *Why I read it*               | Book club                                                        |
 | *Recommended for*             | Readers of psychological thrillers, folks who like "weird" books |
+| *How did it challenge me?*    | Slight bit disturbing                                            |
 | *Approx. time I took to read* | A week                                                           |
 | *One sentence summary*        | Young lovers float along a river of oddity                       |
 | *Standalone*                  | Yes                                                              |
@@ -41,6 +43,7 @@ This was a very nice book along the vein of other Orthodox spirituality books I'
 | *Author*                      | Ana Smiljanic, Elder Thaddeus of Vitovnica                |
 | *Why I read it*               | Seemed like a good concept                                |
 | *Recommended for*             | Orthodox Christians or those interested in spiritual life |
+| *How did it challenge me?*    | There were multiple points I've had to grapple with       |
 | *Approx. time I took to read* | Three weeks                                               |
 | *One sentence summary*        | Our thoughts determine our lives                          |
 | *Standalone*                  | Yes                                                       |
@@ -54,13 +57,14 @@ This was a good programming language introduction book. It
  - introduces concepts in a logical order and pace, and
  - gave enough of an intro without delving too deep
   
-| *Author*                      | Steve Klabnik, Carol Nichols         |
-| *Why I read it*               | I was trying to learn Rust           |
-| *Recommended for*             | Folks who are interested in Rust     |
-| *Approx. time I took to read* | Three weeks                          |
-| *One sentence summary*        | Overview of the programming language |
-| *Standalone*                  | Yes                                  |
-| *Special accolades*           |                                      |
+| *Author*                      | Steve Klabnik, Carol Nichols                                             |
+| *Why I read it*               | I was trying to learn Rust                                               |
+| *Recommended for*             | Folks who are interested in Rust                                         |
+| *How did it challenge me?*    | New concepts (borrower semantics), difficult projects (e.g. HTTP server) |
+| *Approx. time I took to read* | Three weeks                                                              |
+| *One sentence summary*        | Overview of the programming language                                     |
+| *Standalone*                  | Yes                                                                      |
+| *Special accolades*           |                                                                          |
   
 * /The Republic of Thieves/ (★★⯪☆☆ 2.5/5)
 
@@ -78,6 +82,7 @@ The things that I didn't like were
 | *Author*                      | Scott Lynch                                                |
 | *Why I read it*               | Continue series (first book was a friend's recommendation) |
 | *Recommend for*               | Die hard fans of the series                                |
+| *How did it challenge me?*    | This didn't significantly challenge me                     |
 | *Approx. time I took to read* | 2 weeks                                                    |
 | *One sentence summary*        | Continued adventures of "The Gentlemen Bastards"           |
 | *Standalone*                  | No                                                         |
@@ -99,13 +104,14 @@ It's like those movies where the characters keep surviving impossible situations
 
 A brief note if you're reading a recent copy: if you don't know how it ends and want to avoid spoilers **defer looking at the pictures in the book until after you've read it**. The pictures contain spoilers!
   
-| *Author*                      | Alfred Lansing, Nathaniel Philbrick                                            |
-| *Why I read it*               | Friend's recommendation; my book club pick                                     |
-| *Recommend for*               | Anyone who reads, or listens to audiobooks                                     |
-| *Approx. time I took to read* | 1 week (only 3 sittings)                                                       |
-| *One sentence summary*        | Endurance in the midst of impossible odds                                      |
-| *Standalone*                  | Yes                                                                            |
-| *Special accolades*           | /Buys copies as gifts/, /Book of the year/, /Most Chilling/, /Best Named Book/ |
+| *Author*                      | Alfred Lansing, Nathaniel Philbrick                                                                                  |
+| *Why I read it*               | Friend's recommendation; my book club pick                                                                           |
+| *Recommend for*               | Anyone who reads, or listens to audiobooks                                                                           |
+| *How did it challenge me?*    | Causes me to regularly reconsider what I consider to be "hardship," encourages me to do daring things and take risks |
+| *Approx. time I took to read* | 1 week (only 3 sittings)                                                                                             |
+| *One sentence summary*        | Endurance in the midst of impossible odds                                                                            |
+| *Standalone*                  | Yes                                                                                                                  |
+| *Special accolades*           | /Buys copies as gifts/, /Book of the year/, /Most chilling/, /Best named book/                                    |
   
 * /Pushkin Poems/ (★★★★☆ 4/5)
 
@@ -115,13 +121,14 @@ This proved to be a good collection. The only difficulty I had with it was that 
 
 The poem that stood out most from the collection was [[https://russianuniverse.org/2014/09/24/slanderers-of-russia/][Slanderers of Russia]] especially in light of current events.
   
-| *Author*                      | Alexander Pushkin, Sean Harrison, et al.                |
-| *Why I read it*               | I like Russian literature and wanted to try more poetry |
-| *Recommend for*               | Anyone who likes poetry and/or Russian literature       |
-| *Approx. time I took to read* | 1 month                                                 |
-| *One sentence summary*        | Russian poetry collection                               |
-| *Standalone*                  | Yes                                                     |
-| *Special accolades*           |                                                         |
+| *Author*                      | Alexander Pushkin, Sean Harrison, et al.                                     |
+| *Why I read it*               | I like Russian literature and wanted to try more poetry                      |
+| *Recommend for*               | Anyone who likes poetry and/or Russian literature                            |
+| *How did it challenge me?*    | Took some focus to understand, especially since it was my first poetry book. |
+| *Approx. time I took to read* | 1 month                                                                      |
+| *One sentence summary*        | Russian poetry collection                                                    |
+| *Standalone*                  | Yes                                                                          |
+| *Special accolades*           | /First poetry book I've read/                                                |
   
 * /How Design Makes the World/ (★★★☆☆ 3/5)
   
@@ -132,6 +139,7 @@ I would give it a higher rating if it were (1) less preachy, and (2) more substa
 | *Author*                      | Scott Berkun                                                           |
 | *Why I read it*               | Gift from family member                                                |
 | *Recommend for*               | Folks interested in design, after reading some of the staples first... |
+| *How did it challenge me?*    | This didn't significantly challenge me                                 |
 | *Approx. time I took to read* | 2 weeks                                                                |
 | *One sentence summary*        |                                                                        |
 | *Standalone*                  | Yes                                                                    |
@@ -141,13 +149,14 @@ I would give it a higher rating if it were (1) less preachy, and (2) more substa
 
 This was a very nice, albeit small, collection of the writings of Maximus the Confessor. I won't get into too many specifics other than to say that his exposition of the story of Jonah really made me think.
 
-| *Author*                      | St. Maximus the Confessor, Paul M. Blowers, et al.               |
-| *Why I read it*               | I wanted to re-read writings by Maximus                          |
-| *Recommend for*               | Anyone interested in Church Fathers, Christology, story of Jonah |
-| *Approx. time I took to read* | 3 weeks                                                          |
-| *One sentence summary*        | Collection of writings by St. Maximus the Confessor              |
-| *Standalone*                  | Yes                                                              |
-| *Special accolades*           | /Re-read/                                                        |
+| *Author*                      | St. Maximus the Confessor, Paul M. Blowers, et al.                                                                         |
+| *Why I read it*               | I wanted to re-read writings by Maximus                                                                                    |
+| *Recommend for*               | Anyone interested in Church Fathers, Christology, story of Jonah                                                           |
+| *How did it challenge me?*    | Causes me to reflect on scripture, life and being human in ways I hadn't considered before. Causes me to learn some Greek. |
+| *Approx. time I took to read* | 3 weeks                                                                                                                    |
+| *One sentence summary*        | Collection of writings by St. Maximus the Confessor                                                                        |
+| *Standalone*                  | Yes                                                                                                                        |
+| *Special accolades*           | /Re-read/                                                                                                                  |
   
 * /Moby Dick/ (★★★★★ 5/5)
 
@@ -162,6 +171,7 @@ I enjoyed this book and it shows! I read it at the same time as a few other book
 | *Author*                      | Herman Melville                                                                                                         |
 | *Why I read it*               | After reading /Endurance/ and /Red Seas Under Red Skies/ (last year) I wanted more seafaring literature; it's a classic |
 | *Recommend for*               | Anyone interested in classics, seafaring tales, whales, and/or poetic literature                                        |
+| *How did it challenge me?*    | Revealed how weak of a grasp of the classics I have. Instilled a love for poetic writing.                               |
 | *Approx. time I took to read* | 20 days                                                                                                                 |
 | *One sentence summary*        | A mad captain's unrelenting quest for vengeance                                                                         |
 | *Standalone*                  | Yes                                                                                                                     |
@@ -174,6 +184,7 @@ Though I've heard many of the points made in this book before, I've never heard 
 | *Author*                      | Saint John, of Damascus, et al.                                                             |
 | *Why I read it*               | I wanted to better understand the Church's stance on icons and arguments against iconoclasm |
 | *Recommend for*               | Anyone interested in Church Fathers, icons, church history, or who is skeptical of icons    |
+| *How did it challenge me?*    | Caused some newer ideas about icons and images for me                                       |
 | *Approx. time I took to read* | 1 week                                                                                      |
 | *One sentence summary*        | Three letters in defense of icons                                                           |
 | *Standalone*                  | Yes                                                                                         |
@@ -181,7 +192,7 @@ Though I've heard many of the points made in this book before, I've never heard 
   
 * /Early Christian Doctrines/ (★★★★⯪ 4.5/5)
 
-This was the most challenging book I read this year.
+This was a most challenging book for me this year, if not the most challenging.
 
 What made it challenging?
 
@@ -196,6 +207,7 @@ Kelly does a nice job citing many primary sources. You'll be sure to learn from 
 | *Author*                      | J. N. D. Kelly                                                                                      |
 | *Why I read it*               | I wanted to understand more about what the early Church believed; recommendation from family member |
 | *Recommend for*               | Anyone interested in early doctrines and controversies in the church                                |
+| *How did it challenge me?*    | See above                                                                                           |
 | *Approx. time I took to read* | 2 months                                                                                            |
 | *One sentence summary*        | Exploration of early doctrines and controversies in the church                                      |
 | *Standalone*                  | Yes                                                                                                 |
@@ -208,6 +220,7 @@ If you haven't figured it out by now, Dosteovsky is my favorite author. I decide
 | *Author*                      | Fyodor Dostoevsky                                                                                          |
 | *Why I read it*               | I wanted to record an audiobook and this felt like a good starting place; Dostoevsky is my favorite author |
 | *Recommend for*               | Fans of Dosteovsky, and/or Russian literature                                                              |
+| *How did it challenge me?*    | This book had me constantly asking, "am I the Underground Man?" And is that okay, if so?                   |
 | *Approx. time I took to read* | 2 weeks                                                                                                    |
 | *One sentence summary*        | The unnamed "underground man" narrates his exploits                                                        |
 | *Standalone*                  | Yes                                                                                                        |
@@ -223,13 +236,14 @@ But, I'm glad that I read this translation. It may have been a bit jumpy but was
 
 The characters and their interactions make this book. Character arcs are superb. The players reveal themselves through their actions and interactions. You may find that in each third of the book your opinion of a character transforms from disinterest to detest then to pity. By the end, your favorite characters may be those you least expected when you met them.
   
-| *Author*                      | Leo Tolstoy                                                  |
-| *Why I read it*               | I enjoy Russian literature and this is a staple              |
-| *Recommend for*               | Die hard readers, fans of classics and/or Russian literature |
-| *Approx. time I took to read* | 2 months                                                     |
-| *One sentence summary*        | An exploration of war's affect on families                   |
-| *Standalone*                  | Yes                                                          |
-| *Special accolades*           | /Stayed Up Till 3am to Finish/                               |
+| *Author*                      | Leo Tolstoy                                                                                                              |
+| *Why I read it*               | I enjoy Russian literature and this is a staple                                                                          |
+| *Recommend for*               | Die hard readers, fans of classics and/or Russian literature                                                             |
+| *How did it challenge me?*    | Tons of characters (often evolving and changing), lots of simultaneous plots, lots of history. Quite challenging indeed. |
+| *Approx. time I took to read* | 2 months                                                                                                                 |
+| *One sentence summary*        | An exploration of war's affect on families                                                                               |
+| *Standalone*                  | Yes                                                                                                                      |
+| *Special accolades*           | /Stayed Up Till 3am to Finish/                                                                                           |
   
 * /The Name of the Wind/ (★★⯪☆☆ 2.5/5)
 
@@ -259,6 +273,7 @@ The book was fan-service to reading. The main character's dream place was the Ar
 | *Author*                      | Patrick Rothfuss                                                  |
 | *Why I read it*               | Book club                                                         |
 | *Recommend for*               | Fans of young adult fantasy                                       |
+| *How did it challenge me?*    | This didn't significantly challenge me                            |
 | *Approx. time I took to read* | A week and a half                                                 |
 | *One sentence summary*        | The childhood backstory of an incredibly gifted mage and musician |
 | *Standalone*                  | No                                                                |
@@ -268,13 +283,14 @@ The book was fan-service to reading. The main character's dream place was the Ar
   
 We read this book at my work in a Haskell programming language learning group. This book, by my estimation, is an excellent appetizer for Haskell. Grab a copy of this book if you want to see Haskell's unique approach to avoiding ~null~.
   
-| *Author*                      | Pat Brisbin                                                |
-| *Why I read it*               | Work book club                                             |
-| *Recommend for*               | Folks who want a taste of what Haskell brings to the table |
-| *Approx. time I took to read* | 1 month                                                    |
-| *One sentence summary*        | How Haskell avoids ~null~                                  |
-| *Standalone*                  | Yes                                                        |
-| *Special accolades*           |                                                            |
+| *Author*                      | Pat Brisbin                                                                         |
+| *Why I read it*               | Work book club                                                                      |
+| *Recommend for*               | Folks who want a taste of what Haskell brings to the table                          |
+| *How did it challenge me?*    | This didn't significantly challenge me (since I grasp many of the concepts therein) |
+| *Approx. time I took to read* | 1 month                                                                             |
+| *One sentence summary*        | How Haskell avoids ~null~                                                           |
+| *Standalone*                  | Yes                                                                                 |
+| *Special accolades*           |                                                                                     |
 
 * /The Blade Itself/ (★★★★★ 5/5)
   
@@ -288,13 +304,14 @@ The more I read this the more I liked some characters and despised others. By my
 
 I liked it more and more as on I read.
   
-| *Author*                      | Joe Abercrombie                  |
-| *Why I read it*               | Friend's recommendation          |
-| *Recommend for*               | Any fantasy readers              |
-| *Approx. time I took to read* | 2 weeks                          |
-| *One sentence summary*        | War against the north is brewing |
-| *Standalone*                  | No                               |
-| *Special accolades*           | /Best Fantasy Characters/        |
+| *Author*                      | Joe Abercrombie                                                                                  |
+| *Why I read it*               | Friend's recommendation                                                                          |
+| *Recommend for*               | Any fantasy readers                                                                              |
+| *How did it challenge me?*    | Violence was tough at spots and liking detestable characters is always an interesting experience |
+| *Approx. time I took to read* | 2 weeks                                                                                          |
+| *One sentence summary*        | War against the north is brewing                                                                 |
+| *Standalone*                  | No                                                                                               |
+| *Special accolades*           | /Best Fantasy Characters/                                                                        |
   
 * /How To Speak So That People Will Listen/ (★★★★⯪ 4.5/5)
 
@@ -302,13 +319,14 @@ This was a useful, short book that's full of wisdom. The Christian underpinning 
 
 My only criticism of the book is that I wish it had delved more into informal speech. Much of the book focused on formal presentations.
   
-| *Author*                      | John Walton                                            |
-| *Why I read it*               | Gift from family member                                |
-| *Recommend for*               | Anyone who is looking to improve their public speaking |
-| *Approx. time I took to read* | 2 days                                                 |
-| *One sentence summary*        | Tips for having confidence in public speaking          |
-| *Standalone*                  | Yes                                                    |
-| *Special accolades*           |                                                        |
+| *Author*                      | John Walton                                                                                                                                        |
+| *Why I read it*               | Gift from family member                                                                                                                            |
+| *Recommend for*               | Anyone who is looking to improve their public speaking                                                                                             |
+| *How did it challenge me?*    | Reading self-help books from this era cause me to feel slothful and like a slob. This book encouraged me to interact more with people in real life |
+| *Approx. time I took to read* | 2 days                                                                                                                                             |
+| *One sentence summary*        | Tips for having confidence in public speaking                                                                                                      |
+| *Standalone*                  | Yes                                                                                                                                                |
+| *Special accolades*           |                                                                                                                                                    |
 
 * /Beginning To Pray/ (★★★★⯪ 4.5/5)
 
@@ -318,30 +336,59 @@ I would recommend this book as a book club study book. The book is certainly cha
 
 I only give it a 4.5 because I found it difficult (at times) to extract lessons from all the content. For such a short book, it contains a lot of lessons.
 
-| *Author*                      | Metropolitan Anthony Bloom                    |
-| *Why I read it*               | Church book club                              |
-| *Recommend for*               | Folks exploring prayer and the spiritual life |
-| *Approx. time I took to read* | 1 month                                       |
-| *One sentence summary*        | Prayer is not what you think it is            |
-| *Standalone*                  | Yes                                           |
-| *Special accolades*           |                                               |
+| *Author*                      | Metropolitan Anthony Bloom                                                                                                                                      |
+| *Why I read it*               | Church book club                                                                                                                                                |
+| *Recommend for*               | Folks exploring prayer and the spiritual life                                                                                                                   |
+| *How did it challenge me?*    | Similarly to /Our Thoughts Determine Our Lives/, I'm still grappling with some points of this book. I have found myself employing practices I've learned herein |
+| *Approx. time I took to read* | 1 month                                                                                                                                                         |
+| *One sentence summary*        | Prayer is not what you think it is                                                                                                                              |
+| *Standalone*                  | Yes                                                                                                                                                             |
+| *Special accolades*           |                                                                                                                                                                 |
 
 * /The Chimes/ (★★★★⯪ 4.5/5)
+
+This was a nice book, a very /Dickens/ book. It has much in common with /A Christmas Carol/ and reveals something of a formula. The point is, Dickens' formula works and yields heartwarming tales. 
   
-| *Author*                      | Charles Dickens                                                 |
-| *Why I read it*               | Working through Dickens' works, audiobook fodder                |
-| *Recommend for*               | Fans of Dickens, folks looking for a heartwarming read          |
-| *Approx. time I took to read* | 1 week                                                          |
-| *One sentence summary*        | On the eve of a new year, man is haunted with potential futures |
-| *Standalone*                  | Yes                                                             |
-| *Special accolades*           |                                                                 |
+| *Author*                      | Charles Dickens                                                                                              |
+| *Why I read it*               | Working through Dickens' works, audiobook fodder                                                             |
+| *Recommend for*               | Fans of Dickens, folks looking for a heartwarming read                                                       |
+| *How did it challenge me?*    | This book was par the course for Dickens because it made me ask, "Do I need to re-focus on those around me?" |
+| *Approx. time I took to read* | 1 week                                                                                                       |
+| *One sentence summary*        | On the eve of a new year, man is haunted with potential futures                                              |
+| *Standalone*                  | Yes                                                                                                          |
+| *Special accolades*           |                                                                                                              |
   
 * /The Art of War/ (★★★★★ 5/5)
 
-| *Author*                      | Sun Tzu                                                                           |
-| *Why I read it*               | Recommended at some point (can't remember who, maybe a podcast), audiobook fodder |
-| *Recommend for*               | Anyone who is competitive or strategically minded                                 |
-| *Approx. time I took to read* | 1 day                                                                             |
-| *One sentence summary*        | General Tzu gives gives wisdom to generals for victory's sake                     |
-| *Standalone*                  | Yes                                                                               |
-| *Special accolades*           |                                                                                   |
+I'm no military strategist but this was a unique and neat read. This was another book I picked up as an [[https://mjgpy3.github.io/me/the-art-of-war-audiobook.html][audiobook project]] and it made for quite an enjoyable read.
+
+| *Author*                      | Sun Tzu                                                                                                                                           |
+| *Why I read it*               | Recommended at some point (can't remember who, maybe a podcast), audiobook fodder                                                                 |
+| *Recommend for*               | Anyone who is competitive or strategically minded                                                                                                 |
+| *How did it challenge me?*    | My big challenges from this book are (1) trying to remember the many lessons, and (2) generalizing the content to life outside of military advice |
+| *Approx. time I took to read* | 1 day                                                                                                                                             |
+| *One sentence summary*        | General Tzu gives gives wisdom to generals for victory's sake                                                                                     |
+| *Standalone*                  | Yes                                                                                                                                               |
+| *Special accolades*           |                                                                                                                                                   |
+
+* /Starship Troopers/ 
+* /The Millionaire Next Door/  
+* /The Wreck of the Whaleship Essex/
+* /The Lord of the Rings: The Fellowship of the Ring/
+* /How To Learn A Foreign Language/
+* /Irish Proverbs/
+* /Before They Are Hanged/
+* /The Old Man And The Sea/
+* /The Way of a Pilgrim/
+* /The Princess And The Goblin/
+* /The Abolition of Man/
+* /Julius Caesar/ 
+* /How To Read A Book/
+* /Dune Messiah/
+* /Prussian Nights/
+* /No Country For Old Men/
+* /The War Nerd Iliad/
+* /The Diary of a Player/ 
+* /Ratio/ 
+* /Last Argument of Kings/ 
+* /C.S. Lewis Poems/
