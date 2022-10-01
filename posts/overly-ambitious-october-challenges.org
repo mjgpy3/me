@@ -1,0 +1,187 @@
+#+title: Overly Ambitious October Challenges
+#+date: <2022-10-01 07:33>
+#+filetags: reading books skateboarding writing orthodox art music exercise gaming
+
+I have long been a fan of 30 day challenges. 30 days is the perfect amount of time to try something new or stretch yourself. This October I have the invaluable blessing of having some time on my hands. I'm going to try out a bunch of October challenges and see how I fare.
+
+I have in mind 28 challenges some of which are well known, some are novel. I don't expect to deliver on 100% of these challenges, however, I will give myself partial credit where applicable.
+
+So, here are the challenges!
+
+* Challenges
+** Inktober (AKA Drawtober)
+   
+This is a well-known October challenge. The goal is to draw something, absolutely anything, each day. The drawing can be simple or complicated.
+
+This challenge is meant to be a streak so missed days cannot be made up. For example, doing two drawing in one day then skipping a day still counts as a miss for the skip.
+
+** Skateober
+
+The idea of this challenge is to do a different trick for every day of the month -- so 31 tricks.
+
+Since the weather is temperamental where I live, I'm going to allow for skips. For example, I would consider this a success if I did all the tricks in two sessions.
+
+** Booktober
+
+Read 4 books in October.
+
+I will also count books that I end up reading aloud (see [[*Voictober][Voictober]] later).
+  
+** Photober
+
+This is a photography variant of Inktober. It's also meant to be a streak so skipped days can't be made up. Photos must vary somewhat.
+
+** Psalmtober
+
+Pray the entire Psalter in October. This could be clustered if need be but daily prayer is preferred.
+
+** Sober October
+
+No alcohol consumption in the month.
+
+** Hasktober
+
+Have some interaction with the Haskell programming language 31 times in October.
+
+This may include
+ - writing a little code
+ - modifying an existing program
+ - trying a new library
+ - reading a Haskell paper
+ - writing about Haskell
+ - recording a video about Haskell
+ - etc...
+
+This will not be streak-based.
+
+** Writober
+
+Write something every day.
+
+I'm going to keep this kind of fuzzy but I'll know if I've met it or not. This is another "streak-based" goal (e.g. skipped days are losses).
+
+For example, today (Oct. 1) I'm counting this article since I've made many edits, additions, and removals.
+
+** YouTober
+
+Publish a video for each day in October.
+
+Hopefully I can leverage other challenges for this one (e.g. [[*Skateober][Skateober]]).
+
+I use the word "publish" because I will allow for publishing videos that I've already recorded (I have a handful that need editing).
+
+** Langtober
+
+Practice DuoLingo every day.
+
+This shouldn't be too difficult. Again this will be streak-based and "streak freezes" (a DuoLingo feature that allows you to skip a day) won't count.
+
+** Musictober
+
+Practice a musical instrument for 30 minutes a day. This will probably be non-streak-based so, for example, an hour may count for two days.
+
+** Curiousitober
+
+Come up with and answer 1 interesting question per day. This is streak-based.
+
+Here "interesting" is quite relative, of course.
+
+** Exertober
+
+Exercise 6 days a week for the month. This will allow for 4 "skip" days for resting.
+
+I'm not going to count short walks (from [[*Walktober][Walktober]]) as satisfying this challenge.
+
+** Unplugtober
+
+No internet-connected devices, except where necessary for other challenges.
+
+Some exceptions that come to mind
+ - Hasktober will require the internet often (e.g. to read docs)
+ - YouTober will require the internet to publish videos
+ - Curiositober will likely require the internet to find answers
+ - Gametober may require internet usage to look up rules
+ - Inktober may benefit from having internet to access "inspiration" (e.g. subjects to draw)
+ - Writober will afford short internet usage to publish posts (e.g. this one)
+
+I will also allow myself a single email/chat check a day since I have obligations that require the use of email. I will also exempt any financial internet sessions that may arise (usually these are few, short, and necessary).
+
+The spirit of this challenge is to limit my internet usage to one or two, targeted (and hopefully short) sessions per day.
+
+** Walktober
+
+Go on a walk (or run) outside every day. I'd prefer this to be daily but will allow for some "double day walks" or very long walks to count for two (again, due to weather).
+  
+** Voictober
+    
+Read a book aloud.
+
+If finished, I will count this as a point towards [[*Booktober][Booktober]] too.
+
+** Cooktober
+    
+Cook something each day. "Recipes" can be repeated infinitely.
+
+This challenge has two goals, in priority of
+ 1. to cook for my family
+ 2. cooking practice
+
+Since this will be tough for me I would definitely count multiple recipes in a single day as multiple days. 
+
+** Thriftober
+
+Unless necessary spending or challenge-related, spend less than $31 in October. I don't foresee any spending for these challenges.
+
+If I went over $31 I'll need to figure out a partial credit mechanism, however, I hope I won't need to do that.
+
+** Churchtober
+   
+Go to every church service in October. 
+
+This will be quite a challenge as there are many services.
+
+** Whittletober
+    
+Whittle every day. This is not streak-based.
+
+** Optober
+   
+Focus on optimism, no negativity. If I slip I've gotta say 3 nice things.
+
+** Brotober
+    
+Hang out with my brother all month.
+
+My brother will be staying with me for the month and hopefully participating in some of these challenges!
+
+** Gametober
+    
+Play 31 distinct games in October. Video games are not allowed. Multiples are acceptable in a single day and skips are okay.
+
+Here "distinct" is a little flexible. Some games have the same underlying engine, however, allow for enough variance to produce a game that feels entirely different. For example, Dominion's kingdom randomization makes for highly diverse games.
+
+** Drive Test Tober 
+    
+Help my brother pass the state driving test.
+
+This is the only challenge on here that is all-or-nothing. If he passes, I'll call it success, otherwise it's a failure.
+
+** Navy Shower Tober
+
+All showers must be cold, [[https://en.wikipedia.org/wiki/Navy_shower][navy showers]].
+   
+** Dishtober 
+
+Be the only one in the house that does dishes. I'd get a free pass on this one if someone does them while I'm away.
+
+** Caff-free Tober
+    
+No caffeine in October. This should simultaneously help and hinder the other challenges.
+
+** Rectober
+
+Listen to a different album, in entirety, for each day of the month. This is not streak-based.
+   
+* Conclusion
+
+Well there are the overly ambitious October goals. I'm gonna give them my best shot and I'll try to post updates regularly.

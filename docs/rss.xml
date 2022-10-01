@@ -4,7 +4,7 @@
 <title><![CDATA[Gilli's Land]]></title>
 <description><![CDATA[Gilli's Land]]></description>
 <link>https://mjgpy3.github.io/me</link>
-<lastBuildDate>Fri, 05 Aug 2022 00:17:25 -0400</lastBuildDate>
+<lastBuildDate>Sat, 01 Oct 2022 07:34:51 -0400</lastBuildDate>
 <item>
   <title><![CDATA[New Audiobook: Shipwreck of the Whale-Ship Essex]]></title>
   <description><![CDATA[
@@ -19,7 +19,7 @@ The recording is up on YouTube as <a href="https://www.youtube.com/watch?v=5tunc
   <category><![CDATA[audiobook]]></category>
   <link>https://mjgpy3.github.io/me/shipwreck-of-the-whale-ship-essex-audiobook.html</link>
   <guid>https://mjgpy3.github.io/me/shipwreck-of-the-whale-ship-essex-audiobook.html</guid>
-  <pubDate>Fri, 05 Aug 2022 00:17:25 -0400</pubDate>
+  <pubDate>Sat, 01 Oct 2022 07:34:51 -0400</pubDate>
 </item>
 <item>
   <title><![CDATA[Nostalgia Beans]]></title>
@@ -62,7 +62,7 @@ Reminds me of Easter with my family -- my childhood home.
   <category><![CDATA[bad_poetry]]></category>
   <link>https://mjgpy3.github.io/me/nostalgia-beans.html</link>
   <guid>https://mjgpy3.github.io/me/nostalgia-beans.html</guid>
-  <pubDate>Fri, 05 Aug 2022 00:17:25 -0400</pubDate>
+  <pubDate>Sat, 01 Oct 2022 07:34:51 -0400</pubDate>
 </item>
 <item>
   <title><![CDATA[Dogman]]></title>
@@ -99,7 +99,414 @@ On the neck of wonder rests the boot of capital
   <category><![CDATA[bad_poetry]]></category>
   <link>https://mjgpy3.github.io/me/dogman.html</link>
   <guid>https://mjgpy3.github.io/me/dogman.html</guid>
-  <pubDate>Fri, 05 Aug 2022 00:17:25 -0400</pubDate>
+  <pubDate>Sat, 01 Oct 2022 07:34:51 -0400</pubDate>
+</item>
+<item>
+  <title><![CDATA[Overly Ambitious October Challenges]]></title>
+  <description><![CDATA[
+<p>
+I have long been a fan of 30 day challenges. 30 days is the perfect amount of time to try something new or stretch yourself. This October I have the invaluable blessing of having some time on my hands. I'm going to try out a bunch of October challenges and see how I fare.
+</p>
+
+<p>
+I have in mind 28 challenges some of which are well known, some are novel. I don't expect to deliver on 100% of these challenges, however, I will give myself partial credit where applicable.
+</p>
+
+<p>
+So, here are the challenges!
+</p>
+
+<div id="outline-container-orgd019ec6" class="outline-2">
+<h2 id="orgd019ec6">Challenges</h2>
+<div class="outline-text-2" id="text-orgd019ec6">
+</div>
+<div id="outline-container-org2182c9f" class="outline-3">
+<h3 id="org2182c9f">Inktober (AKA Drawtober)</h3>
+<div class="outline-text-3" id="text-org2182c9f">
+<p>
+This is a well-known October challenge. The goal is to draw something, absolutely anything, each day. The drawing can be simple or complicated.
+</p>
+
+<p>
+This challenge is meant to be a streak so missed days cannot be made up. For example, doing two drawing in one day then skipping a day still counts as a miss for the skip.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8075324" class="outline-3">
+<h3 id="org8075324">Skateober</h3>
+<div class="outline-text-3" id="text-org8075324">
+<p>
+The idea of this challenge is to do a different trick for every day of the month &#x2013; so 31 tricks.
+</p>
+
+<p>
+Since the weather is temperamental where I live, I'm going to allow for skips. For example, I would consider this a success if I did all the tricks in two sessions.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org68b80a8" class="outline-3">
+<h3 id="org68b80a8">Booktober</h3>
+<div class="outline-text-3" id="text-org68b80a8">
+<p>
+Read 4 books in October.
+</p>
+
+<p>
+I will also count books that I end up reading aloud (see <a href="#orgb258ae6">Voictober</a> later).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc847236" class="outline-3">
+<h3 id="orgc847236">Photober</h3>
+<div class="outline-text-3" id="text-orgc847236">
+<p>
+This is a photography variant of Inktober. It's also meant to be a streak so skipped days can't be made up. Photos must vary somewhat.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4a2ac56" class="outline-3">
+<h3 id="org4a2ac56">Psalmtober</h3>
+<div class="outline-text-3" id="text-org4a2ac56">
+<p>
+Pray the entire Psalter in October. This could be clustered if need be but daily prayer is preferred.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org047a43e" class="outline-3">
+<h3 id="org047a43e">Sober October</h3>
+<div class="outline-text-3" id="text-org047a43e">
+<p>
+No alcohol consumption in the month.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org67c1ca8" class="outline-3">
+<h3 id="org67c1ca8">Hasktober</h3>
+<div class="outline-text-3" id="text-org67c1ca8">
+<p>
+Have some interaction with the Haskell programming language 31 times in October.
+</p>
+
+<p>
+This may include
+</p>
+<ul class="org-ul">
+<li>writing a little code</li>
+<li>modifying an existing program</li>
+<li>trying a new library</li>
+<li>reading a Haskell paper</li>
+<li>writing about Haskell</li>
+<li>recording a video about Haskell</li>
+<li>etc&#x2026;</li>
+</ul>
+
+<p>
+This will not be streak-based.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4cac65e" class="outline-3">
+<h3 id="org4cac65e">Writober</h3>
+<div class="outline-text-3" id="text-org4cac65e">
+<p>
+Write something every day.
+</p>
+
+<p>
+I'm going to keep this kind of fuzzy but I'll know if I've met it or not. This is another "streak-based" goal (e.g. skipped days are losses).
+</p>
+
+<p>
+For example, today (Oct. 1) I'm counting this article since I've made many edits, additions, and removals.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org6207586" class="outline-3">
+<h3 id="org6207586">YouTober</h3>
+<div class="outline-text-3" id="text-org6207586">
+<p>
+Publish a video for each day in October.
+</p>
+
+<p>
+Hopefully I can leverage other challenges for this one (e.g. <a href="#org8075324">Skateober</a>).
+</p>
+
+<p>
+I use the word "publish" because I will allow for publishing videos that I've already recorded (I have a handful that need editing).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org88fff18" class="outline-3">
+<h3 id="org88fff18">Langtober</h3>
+<div class="outline-text-3" id="text-org88fff18">
+<p>
+Practice DuoLingo every day.
+</p>
+
+<p>
+This shouldn't be too difficult. Again this will be streak-based and "streak freezes" (a DuoLingo feature that allows you to skip a day) won't count.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org98c7873" class="outline-3">
+<h3 id="org98c7873">Musictober</h3>
+<div class="outline-text-3" id="text-org98c7873">
+<p>
+Practice a musical instrument for 30 minutes a day. This will probably be non-streak-based so, for example, an hour may count for two days.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e55d1e" class="outline-3">
+<h3 id="org1e55d1e">Curiousitober</h3>
+<div class="outline-text-3" id="text-org1e55d1e">
+<p>
+Come up with and answer 1 interesting question per day. This is streak-based.
+</p>
+
+<p>
+Here "interesting" is quite relative, of course.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge8c69d7" class="outline-3">
+<h3 id="orge8c69d7">Exertober</h3>
+<div class="outline-text-3" id="text-orge8c69d7">
+<p>
+Exercise 6 days a week for the month. This will allow for 4 "skip" days for resting.
+</p>
+
+<p>
+I'm not going to count short walks (from <a href="#orgbe5ba09">Walktober</a>) as satisfying this challenge.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31a5486" class="outline-3">
+<h3 id="org31a5486">Unplugtober</h3>
+<div class="outline-text-3" id="text-org31a5486">
+<p>
+No internet-connected devices, except where necessary for other challenges.
+</p>
+
+<p>
+Some exceptions that come to mind
+</p>
+<ul class="org-ul">
+<li>Hasktober will require the internet often (e.g. to read docs)</li>
+<li>YouTober will require the internet to publish videos</li>
+<li>Curiositober will likely require the internet to find answers</li>
+<li>Gametober may require internet usage to look up rules</li>
+<li>Inktober may benefit from having internet to access "inspiration" (e.g. subjects to draw)</li>
+<li>Writober will afford short internet usage to publish posts (e.g. this one)</li>
+</ul>
+
+<p>
+I will also allow myself a single email/chat check a day since I have obligations that require the use of email. I will also exempt any financial internet sessions that may arise (usually these are few, short, and necessary).
+</p>
+
+<p>
+The spirit of this challenge is to limit my internet usage to one or two, targeted (and hopefully short) sessions per day.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbe5ba09" class="outline-3">
+<h3 id="orgbe5ba09">Walktober</h3>
+<div class="outline-text-3" id="text-orgbe5ba09">
+<p>
+Go on a walk (or run) outside every day. I'd prefer this to be daily but will allow for some "double day walks" or very long walks to count for two (again, due to weather).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb258ae6" class="outline-3">
+<h3 id="orgb258ae6">Voictober</h3>
+<div class="outline-text-3" id="text-orgb258ae6">
+<p>
+Read a book aloud.
+</p>
+
+<p>
+If finished, I will count this as a point towards <a href="#org68b80a8">Booktober</a> too.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1bd263b" class="outline-3">
+<h3 id="org1bd263b">Cooktober</h3>
+<div class="outline-text-3" id="text-org1bd263b">
+<p>
+Cook something each day. "Recipes" can be repeated infinitely.
+</p>
+
+<p>
+This challenge has two goals, in priority of
+</p>
+<ol class="org-ol">
+<li>to cook for my family</li>
+<li>cooking practice</li>
+</ol>
+
+<p>
+Since this will be tough for me I would definitely count multiple recipes in a single day as multiple days. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge6ba6a3" class="outline-3">
+<h3 id="orge6ba6a3">Thriftober</h3>
+<div class="outline-text-3" id="text-orge6ba6a3">
+<p>
+Unless necessary spending or challenge-related, spend less than $31 in October. I don't foresee any spending for these challenges.
+</p>
+
+<p>
+If I went over $31 I'll need to figure out a partial credit mechanism, however, I hope I won't need to do that.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1d8e010" class="outline-3">
+<h3 id="org1d8e010">Churchtober</h3>
+<div class="outline-text-3" id="text-org1d8e010">
+<p>
+Go to every church service in October. 
+</p>
+
+<p>
+This will be quite a challenge as there are many services.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org77e4843" class="outline-3">
+<h3 id="org77e4843">Whittletober</h3>
+<div class="outline-text-3" id="text-org77e4843">
+<p>
+Whittle every day. This is not streak-based.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02b892d" class="outline-3">
+<h3 id="org02b892d">Optober</h3>
+<div class="outline-text-3" id="text-org02b892d">
+<p>
+Focus on optimism, no negativity. If I slip I've gotta say 3 nice things.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4c3612" class="outline-3">
+<h3 id="orgd4c3612">Brotober</h3>
+<div class="outline-text-3" id="text-orgd4c3612">
+<p>
+Hang out with my brother all month.
+</p>
+
+<p>
+My brother will be staying with me for the month and hopefully participating in some of these challenges!
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfaaf28c" class="outline-3">
+<h3 id="orgfaaf28c">Gametober</h3>
+<div class="outline-text-3" id="text-orgfaaf28c">
+<p>
+Play 31 distinct games in October. Video games are not allowed. Multiples are acceptable in a single day and skips are okay.
+</p>
+
+<p>
+Here "distinct" is a little flexible. Some games have the same underlying engine, however, allow for enough variance to produce a game that feels entirely different. For example, Dominion's kingdom randomization makes for highly diverse games.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1c94775" class="outline-3">
+<h3 id="org1c94775">Drive Test Tober</h3>
+<div class="outline-text-3" id="text-org1c94775">
+<p>
+Help my brother pass the state driving test.
+</p>
+
+<p>
+This is the only challenge on here that is all-or-nothing. If he passes, I'll call it success, otherwise it's a failure.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc3ada3" class="outline-3">
+<h3 id="orgdc3ada3">Navy Shower Tober</h3>
+<div class="outline-text-3" id="text-orgdc3ada3">
+<p>
+All showers must be cold, <a href="https://en.wikipedia.org/wiki/Navy_shower">navy showers</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga193e3b" class="outline-3">
+<h3 id="orga193e3b">Dishtober</h3>
+<div class="outline-text-3" id="text-orga193e3b">
+<p>
+Be the only one in the house that does dishes. I'd get a free pass on this one if someone does them while I'm away.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e92e3b" class="outline-3">
+<h3 id="org1e92e3b">Caff-free Tober</h3>
+<div class="outline-text-3" id="text-org1e92e3b">
+<p>
+No caffeine in October. This should simultaneously help and hinder the other challenges.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2e9010e" class="outline-3">
+<h3 id="org2e9010e">Rectober</h3>
+<div class="outline-text-3" id="text-org2e9010e">
+<p>
+Listen to a different album, in entirety, for each day of the month. This is not streak-based.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org914d345" class="outline-2">
+<h2 id="org914d345">Conclusion</h2>
+<div class="outline-text-2" id="text-org914d345">
+<p>
+Well there are the overly ambitious October goals. I'm gonna give them my best shot and I'll try to post updates regularly.
+</p>
+</div>
+</div>
+<div class="taglist"><a href="https://mjgpy3.github.io/me/tags.html">Tags</a>: <a href="https://mjgpy3.github.io/me/tag-reading.html">reading</a> <a href="https://mjgpy3.github.io/me/tag-books.html">books</a> <a href="https://mjgpy3.github.io/me/tag-skateboarding.html">skateboarding</a> <a href="https://mjgpy3.github.io/me/tag-writing.html">writing</a> <a href="https://mjgpy3.github.io/me/tag-orthodox.html">orthodox</a> <a href="https://mjgpy3.github.io/me/tag-art.html">art</a> <a href="https://mjgpy3.github.io/me/tag-music.html">music</a> <a href="https://mjgpy3.github.io/me/tag-exercise.html">exercise</a> <a href="https://mjgpy3.github.io/me/tag-gaming.html">gaming</a> </div>]]></description>
+  <category><![CDATA[reading]]></category>
+  <category><![CDATA[books]]></category>
+  <category><![CDATA[skateboarding]]></category>
+  <category><![CDATA[writing]]></category>
+  <category><![CDATA[orthodox]]></category>
+  <category><![CDATA[art]]></category>
+  <category><![CDATA[music]]></category>
+  <category><![CDATA[exercise]]></category>
+  <category><![CDATA[gaming]]></category>
+  <link>https://mjgpy3.github.io/me/overly-ambitious-october-challenges.html</link>
+  <guid>https://mjgpy3.github.io/me/overly-ambitious-october-challenges.html</guid>
+  <pubDate>Sat, 01 Oct 2022 07:33:00 -0400</pubDate>
 </item>
 <item>
   <title><![CDATA[black mirror]]></title>
