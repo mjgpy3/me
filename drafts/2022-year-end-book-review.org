@@ -1,6 +1,6 @@
 #+title: 2022 Year End Book Review
 #+date: <TODO>
-#+filetags: reading review orthodox books dostoevsky dickens sea
+#+filetags: reading review orthodox books dostoevsky dickens sea russian
 
 * /The Complete Short Stories of Fyodor Dostoevsky/ (★★★★★ 5/5)
 
@@ -288,13 +288,13 @@ The more I read this the more I liked some characters and despised others. By my
 
 I liked it more and more as on I read.
   
-| *Author*                      | Joe Abercrombie                                                                                  |
-| *Why I read it*               | Friend's recommendation                                                                          |
-| *Recommend for*               | Any fantasy readers                                                                              |
-| *Approx. time I took to read* | 2 weeks                                                                                          |
-| *One sentence summary*        | War against the north is brewing                                                                 |
-| *Standalone*                  | No                                                                                               |
-| *Special accolades*           | /Best Fantasy Characters/                                                                        |
+| *Author*                      | Joe Abercrombie                  |
+| *Why I read it*               | Friend's recommendation          |
+| *Recommend for*               | Any fantasy readers              |
+| *Approx. time I took to read* | 2 weeks                          |
+| *One sentence summary*        | War against the north is brewing |
+| *Standalone*                  | No                               |
+| *Special accolades*           |                                  |
   
 * /How To Speak So That People Will Listen/ (★★★★⯪ 4.5/5)
 
@@ -350,7 +350,7 @@ I'm no military strategist but this was a unique and neat read. This was another
 | *Standalone*                  | Yes                                                                               |
 | *Special accolades*           |                                                                                   |
 
-* /Starship Troopers/ 
+* /Starship Troopers/
 * /The Millionaire Next Door/  
 * /The Wreck of the Whaleship Essex/ (★★★★⯪ 4.5/5)
 
@@ -370,7 +370,7 @@ As an aside, I recorded this account as [[https://www.youtube.com/watch?v=5tuncZ
 | *Standalone*                  | Yes                                                                           |
 | *Special accolades*           |                                                                               |
   
-* /The Lord of the Rings: The Fellowship of the Ring/
+* /The Lord of the Rings: The Fellowship of the Ring/ (★★★★★ 5/5)
   
 This is one of my all-time favorite books. This is the third time I've read it and the second time I've read it aloud to my wife.
 
@@ -388,9 +388,57 @@ But seriously, what a beautiful book full of hope and the epic struggle against 
 | *Standalone*                  | No                                                                                    |
 | *Special accolades*           | /Second re-read/                                                                      |
 
-* /How To Learn A Foreign Language/
-* /Irish Proverbs/
-* /Before They Are Hanged/
+* /How To Learn A Foreign Language/ (★★★★☆ 4/5)
+
+This was a fine how-to book. I'm in the process of learning a foreign language right now and I figured this would be a nice supplement for the more directed study.
+
+I read this while I was reading /How To Read a Book/ which lessened my opinion of this book. A lot of the author's commentary felt fuzzy and I found the author constantly saying that everything in language is arbitrary (which is silliness and not well backed in the book). The book is also heavily dated to the time in which it was written (e.g. constant references to the USSR).
+
+This book claims to work well for individual learners, however, it's really geared towards learning in a foreign language class. This was another large downside to it.
+
+| *Author*                      | Graham E. Fuller                                                                |
+| *Why I read it*               | I'm interested in foreign languages and I spotted it for $.50 at a thrift store |
+| *Recommend for*               | Those who are interested in learning more than one foreign language             |
+| *Approx. time I took to read* | A few hours                                                                     |
+| *One sentence summary*        | Tips on practicing foreign language study, especially in classroom settings     |
+| *Standalone*                  | Yes                                                                             |
+| *Special accolades*           |                                                                                 |
+  
+* /Irish Proverbs/ (★★★★★ 5/5)
+  
+This was a fine little collection, printed on good paper with nice illustrations. I always wonder how authentic a collection like this is but nonetheless I found myself enjoying the little proverbs.
+
+It's always tricky to review a book like this. The sayings each have a moral or lesson and they're worthwhile to reflect on. That being said, I feel that little books of proverbs are acquired tastes. I personally like them very much.
+
+A few of the proverbs I had heard before, many I had not. My favorite was
+#+begin_quote
+What butter & whiskey will not cure, there's no cure for.
+#+end_quote
+
+| *Author*                      | Unknown, illustrated by Karen Bailey           |
+| *Why I read it*               | It was short and I figured it'd be interesting |
+| *Recommend for*               | Irish folks, folks who like proverbs           |
+| *Approx. time I took to read* | 30 minutes                                     |
+| *One sentence summary*        | Title says it all: Irish Proverbs              |
+| *Standalone*                  | Yes                                            |
+| *Special accolades*           | /Shortest read/                                |
+  
+* /Before They Are Hanged/ (★★★★★ 5/5)
+
+This was a great followup to /The Blade Itself/. To be honest, though I gave the first book a solid 5/5, I liked /Before They Are Hanged/ a bit more. My only major contention with the book was that I found the, let's say "intimate" scenes quite cridgeworthy. I think they could have been left out, made more tasteful, or even just alluded to.
+
+As with /The Blade Itself/ this book has wonderful characters. A character or two actually have an arc that feels genuine. Each character is distinct and well written.
+
+I thought that I had a hunch of where this book was headed as I was reading it. I learned later in /Last Argument of Kings/ that I was wrong. This is always welcome as I don't consider these books predictable which makes them stand out from many contemporaries in their genre.
+
+| *Author*                      | Joe Abercrombie                       |
+| *Why I read it*               | Friend's recommendation               |
+| *Recommend for*               | Anyone who enjoyed /The Blade Itself/ |
+| *Approx. time I took to read* | 16 days                               |
+| *One sentence summary*        | War on many fronts                    |
+| *Standalone*                  | No                                    |
+| *Special accolades*           |                                       |
+  
 * /The Old Man And The Sea/
 * /The Way of a Pilgrim/
 * /The Princess And The Goblin/
