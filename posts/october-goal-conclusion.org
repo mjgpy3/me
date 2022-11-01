@@ -1,0 +1,356 @@
+#+title: October Challenges Conclusion
+#+date: <2022-10-31 22:16> 
+#+filetags: reading books skateboarding writing orthodox art music exercise gaming
+
+It's October 31 and what a month it has been! Today, as my last writing exercise of the month, I'm writing the conclusion to my [[https://mjgpy3.github.io/me/overly-ambitious-october-challenges.html][Overly Ambitious October Challenge]] series.
+
+These challenges have certainly been enriching. As I mentioned in my [[https://mjgpy3.github.io/me/october-goal-update-1.html][earlier update]], these have been difficult to maintain, but they've been nonetheless rewarding. So let's review where I landed with each one.
+
+* Challenges
+** Inktober (AKA Drawtober)
+   
+_Score: 31/31, 100%!_
+
+I completed my first Inktober! This was a lot more fun than I expected. I plan on writing a separate post with a scan of each drawing.
+
+I may continue this challenge in a different form. Trying to draw a random Wikipedia article each day could be an interesting exercise.
+   
+** Skateober
+   
+_Score: 31/31, 100%!_
+
+I managed to land, record, and publish, a trick for each day of the month. Due to weather and time constraints, as expected, I did many of these tricks in the same few sessions. I believe it took four sessions in all to complete the tricks.
+
+All the tricks are in this [[https://www.youtube.com/playlist?list=PL97kkzI__pGzvRuON8V_JSRg2VgGON7jc][YouTube playlist]].
+
+** Booktober
+   
+_Score: 4/4, 100% (plus some extra)!_
+
+This month I read, in entirety
+ - /Making Comics/
+ - /As a Man Thinketh/
+ - /I, Robot/, and
+ - /The Storm Before the Storm/
+
+Though I didn't fully complete a fifth book, I also read
+ - 1/3 of /The Brothers Karamazov/ (quite a feat in itself)
+ - Some /Charlie and the Chocolate Factory/ aloud to my family
+ - 2/3 of /The 7 Habits of Highly Effective People/
+ - 1/2 of /The Story of My Life/ (Helen Keller's autobiography)
+ - a little bit of /The Two Towers/ (which I've been reading aloud for some time now)
+
+This goal was wonderful and I hope to continue the pace of reading about a book a week. Of course, engaging with longer books may make this challenging.
+
+** Photober
+   
+_Score: 31/31, 100%!_
+
+I managed to take a unique photograph every day. Figuring out what to photograph (e.g. capturing "the right moment") was far more challenging than I expected. I plan on publishing the photos in a separate post.
+
+I will not be continuing this challenge but will continue to take ad hoc photos.
+
+** Psalmtober
+   
+_Score: 151/151, 100%!_
+
+I finished this challenge a few days early. This challenge sort of speaks for itself. I've always found reading the Psalms to be a beneficial activity. Reading through them all was certainly edifying.
+
+** Sober October
+
+_Score: 31/31, 100%!_
+
+I managed to avoid alcohol for the entire month! This was good because it definitely helped (1) improve my quality of sleep, and, thereby, (2) made me more successful in other challenges. This was really only difficult when I was at events where alcohol was served.
+   
+** Hasktober
+
+_Score: 31/31, 100%!_
+
+Completion of this challenge was primarily accomplished through the reading of Haskell articles. I did also listen to some podcasts.
+
+I did write a little bit of code in my private, Dominion (card game) tracking repository. I also wrote some code to play with the evaluator in "Why Calculating is better than scheming".
+
+The articles/papers/code I read where
+ - Haskell in Production: NoRedInk
+ - [[https://blog.drewolson.org/easy-json][Easy JSON in Haskell]]
+ - [[https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html][Generate web forms from pure functions]]
+ - [[https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf][Why calculating is better than scheming]]
+ - [[https://jesper.sikanda.be/posts/agda2hs.html][Don't worry, be happy]]
+ - [[https://yairchu.github.io/posts/reduce-sharing-in-haskell][3 Ways To Reduce Sharing In Haskell]]
+ - [[https://www.parsonsmatt.org/2016/06/24/take_over_an_api_with_servant.html][Incremental API Takeover With Servant]]
+ - [[https://neilmitchell.blogspot.com/2016/08/the-four-flaws-of-haskell.html][The Four Flaws Of Haskell]]
+ - [[https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts/][Practical Haskell: Bitrot-free Scripts]]
+ - [[http://blog.ezyang.com/2016/07/what-template-haskell-gets-wrong-and-racket-gets-right/][What Template Haskell gets wrong and Racket gets right]]
+ - [[https://www.nmattia.com/posts/2016-08-19-lens-linear-2048.html][Lens and Linear, 2048's logic in 22 lines]]
+ - [[https://www.tweag.io/blog/2016-10-17-inline-java/][A New Ecosystem for Haskell: The JVM]]
+ - [[https://yairchu.github.io/posts/codecs-as-prisms.html][Parsers And Builders As Prisms]]
+ - [[https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial][A Little Lens Starter Tutorial]]
+ - [[https://www.joachim-breitner.de/blog/796-rec-def__Minesweeper_case_study][rec-def: Minesweeper case study]]
+ - [[https://blog.ocharles.org.uk/posts/2022-06-22-list-of-monoids-pattern.html][List of monoids pattern]]
+ - [[https://bor0.wordpress.com/2021/06/07/re-inventing-the-monad-wheel/][Re-inventing the Monad wheel]]
+ - Why no one uses functional languages
+ - [[https://blog.plover.com/prog/haskell/lazy-search.html][Tree search in Haskell]]
+ - [[https://doisinkidney.com/posts/2022-10-17-lazy-group-on.html][Lazy Grouping in Haskell]]
+ - [[https://diagrams.github.io/doc/quickstart.html][Diagrams Tutorial]] (read and worked through it)
+ - ChessIO source code
+
+The podcasts I listened to were
+ - [[https://haskellweekly.news/episode/36.html][Production Haskell with Matt Parsons]]
+ - Haskell weekly #56
+ - [[https://haskellweekly.news/episode/57.html][Haskell Weekly #57]]
+ - [[https://haskellweekly.news/episode/52.html][Haskell Weekly #52]]
+ - [[https://www.haskellcast.com/episode/001-edward-kmett-on-lenses][Haskellcast #1 with Kmett]]
+ - [[https://haskellweekly.news/episode/29.html][Haskell Weekly #29]]
+ - [[https://haskellweekly.news/episode/13.html][Haskell Weekly #13]]
+
+** Writober
+   
+_Score: 31/31, 100%!_
+
+This challenge was good but I don't plan on continuing it. Writing is fun and I certainly need to practice it more. Daily writing goals just didn't really do it for me though. I don't feel like I gained a lot and mostly just sped through my writing activities.
+
+I ended up writing
+ - 3 updates on my October challenges
+ - 11 book reviews
+ - 1 letter, and
+ - 16 private journal entries
+   
+** YouTober
+
+_Score: 35/31, 113%!_
+
+I ended up hacking this challenge by being sure to publish each skateboarding trick that I did. I also published a few more random videos giving me some extra credit!
+
+** Langtober
+
+_Score: 31/31, 100%!_
+   
+This ended up being very easy to accomplish. A DuoLingo lesson (or more) a day is pretty easy to fit around other activities. Though I mostly finished them first thing in the morning.
+   
+** Musictober
+
+_Score: 930 minutes/930 minutes, 100%!_
+
+I finished this challenge 5 days ago. This was a real blast and gave me the opportunity to memorize some songs on my mandolin.
+
+Only about an hour of this ended up being guitar practice. The rest was all mandolin!
+
+** Curiousitober
+   
+_Score: 31/31, 100%!_
+
+This challenge was a ton of fun and I believe I've learned a few things.
+
+Here are the questions I asked each day
+ - Is there a deeper meaning of /Blood Meridian/?
+ - How did chess come about and develop?
+ - Why do we say "turn over a new leaf"?
+ - Who is "Katari" in Brendan's Death Song?
+ - What is the difference between a crocodile and an alligator?
+ - Where does ALDI USA's food come from?
+ - Why do some classics have names/places blanked out?
+ - What is second person and does anything use it?
+ - How did people greet each other before "hello"?
+ - When is the best time to eat protein (relative to exercise)?
+ - What is the Talmud and where did it come from?
+ - Were stink bugs imported?
+ - Why do we say "remember to wash behind your ears"?
+ - Why do LP and EP seem to be reversed? (I thought that "L" was for "limited" but it's "long")
+ - How to win more at solitaire?
+ - How is the rouble related to the kopeck?
+ - What are some popular games playable with normal dice?
+ - What is the oldest board games still played today?
+ - Is Cormack McCarthy still alive and writing?
+ - When do you say good morning vs afternoon vs etc...?
+ - Why is the skate grind called a 5-0?
+ - What's the backstory of Lego?
+ - What is the relationship between Romania and Rome?
+ - What is the modern history of Alaska?
+ - Nuclear fission vs fusion?
+ - Why do some wooden spoons have a hole through them?
+ - How are books modernly printed?
+ - When were crossbows invented?
+ - How many people died from the Spanish Flu?
+ - How high was the highest bomb drop in?
+ - What is the history of St. Basil's Cathedral?
+ 
+** Exertober
+   
+_Score: 26/26, 100%!_
+
+This was a good challenge though it was one of the most difficult to keep up. I tended to overdo it on certain days making consecutive days more difficult. This ended up being a pretty even split of (1) body weight training, (2) intense skateboarding sessions, and (3) using a body weight exercise dice.
+
+I will certainly keep up the body weight training but will not do as many days consecutively in the future.
+
+** Unplugtober
+
+_Score: 30/31, 97%_
+
+This was extremely good for me. Like "Sober October" this kept me focused and helped with sleep. I did have one day where I wandered off into internet scrolling and wasted some time. But every other day was successful by my original rubric.
+
+I would really like to keep this up.
+   
+** Walktober
+
+_Score: 31/31, 100%!_
+
+This was a fun one. Going on a walk every day proved to be too challenging with weather and other business. However, some days I doubled up. I also counted certain very long walks (e.g. spending the day at the zoo) as two. It's always nice to get some fresh air.
+  
+** Voictober
+   
+_Score: 1/1, 100% (plus some extra)!_
+
+I read /I, Robot/ aloud to accomplish this goal. I also read more than half of /As a Man Thinketh/ aloud and some of /The Two Towers/.
+   
+** Cooktober
+
+_Score: 36/31, 116!%_
+
+This was largely accomplished by the fact that I cooked breakfast for my family almost every day in the month. Other meals/foods included lots of grilling, making blini, pumpkin puree, roasted pumpkin seeds, and a good bit of custard.
+   
+** Thriftober
+
+_Score: $5 out of max of $31, 100%!_
+
+I bought a few books at a book sale early on in the month but that was it! No other "unnecessary spending".
+   
+** Churchtober
+
+_Score: 13/15, 87%_
+
+I had to miss two services due to other family events, however, I managed to make it to every other service! This was a great way to spend some time this month.
+   
+** Whittletober
+
+_Score: 31/31, 100%!_
+
+I ended up whittling a chess piece each day. This was a great way to stay motivated and avoid the "what will I whittle next?" question. So at this point I have 31 rough chess pieces. I plan on whittling the final king later this week.
+
+Of course, these pieces are all rough and in need of sanding and finishing.
+   
+** Optober
+
+_Score: ???_
+
+I think I'm throwing this challenge out. It's just too hard to call for me and too fuzzy. I feel like I did pretty good at it. However, I also feel like I totally failed it. As always, man is the worst just of himself.
+   
+** Brotober
+   
+_Score: 22/31, 72%_
+
+Due to some unforeseen circumstances, I was not able to hang out with my brother every day this month. It was still great time spent when we did hang out.
+
+** Gametober
+   
+_Score: 31/31, 100%_
+
+This was a ton of fun. The games I played were
+ - Chess
+ - Foosball
+ - Pentago
+ - Rummikub
+ - 40K mission 1
+ - Zombie Dice
+ - Go fish
+ - Jenga
+ - Solitaire
+ - Pandemic: The Cure
+ - Carcassone
+ - Pandemic
+ - 40K mission 2
+ - Connect 4
+ - Carcassone w/ River Exp.
+ - Blokus
+ - Oregon Trail The Card Game
+ - Ship-Captain-Crew
+ - Midnight
+ - Blokus Duo
+ - Dominion: Huge Collections
+ - Dominion: Forest Scouts
+ - Word Yahtzee
+ - Billards
+ - I Can Do That!
+ - What The Fish
+ - Carcassone w/ Abbott Exp.
+ - Magic The Gathering
+ - Sudoku
+ - Dominion: Decisions, Decisions
+ - 40K mission 3
+   
+** Drive Test Tober 
+
+_Score: ???_
+
+I helped my brother study a good bit but time will tell if this was successful.
+   
+** Navy Shower Tober
+   
+_Score: 31/31, 100%!_
+
+Taking cold showers all month was brutal. It's getting colder outside which means that (1) our water's getting colder and (2) it's colder inside our house. I definitely didn't take a shower every day but, when I did, it was freezing cold. I will probably continue this challenge in warmer months in the future.
+   
+** Dishtober 
+   
+_Score: 40/41, 90%_
+
+I did the dishes at least once a day. A family member did them once when I wasn't around, thus the miss.
+
+** Caff-free Tober
+
+_Score: 31/31, 100%!_
+
+I avoided caffeine for the whole month! Well, I mean, I did eat some chocolate which supposedly has trace amounts of caffeine. The point is though that I didn't consume any beverages which have caffeine. I even avoided decaf drinks since they have some caffeine that wasn't removed.
+
+** Rectober
+   
+_Score: 36/31, 116%!_
+
+This challenge was very easy. To be frank, I tended to put an album on when I did something else. So I certainly wasn't 100% engaged with 100% of 100% of the albums. However, I did "listen to them".
+
+Here's what I heard
+
+ - Rush - 2112
+ - Liszt - co. 1&2
+ - iamthemorning - Lighthouse
+ - BTBAM - Coma Ecliptic
+ - BTBAM - The Great Misdirect
+ - Demon Hunter - Extremist
+ - John Denver - Back Home Again
+ - BTBAM - Automata I
+ - John Mayer - Born and Raised
+ - The White Stripes - Get Behind Me Satan
+ - Regina Spektor - Remember Us To Life
+ - King Gizzard and the Lizard Wizard - Polygondwanaland
+ - Regina Spektor - Far
+ - mewithoutyou - Catch For Us The Foxes
+ - Regina Spektor - Begin To Hope
+ - John Mayer - Room For Squares
+ - mewithoutyou - It's All Crazy It's All False It's All A Dream
+ - BTBAM - Parallax I
+ - BTBAM - Parallax II
+ - Red Hot Chili Peppers - I'm With You
+ - The Flaming Lips - Yoshimi Battles The Pink Robots
+ - My Chemical Romance - The Black Parade
+ - The Beatles - White Album
+ - Sufjan Stevens - Carrie and Lowell
+ - Steven Wilson - The Raven That Refused To Sing
+ - The Beach Boys - Pet Sounds
+ - Arvo Parte - Fur Anna Maria
+ - Mastodon - Crack The Skye
+ - Oliver!
+ - The Flaming Lips - The Soft Bulletin
+ - Various - Thank You Mister Rogers
+ - Modest Mouse - We Were Dead Before The Ship Sank
+ - Weird Al - Running With Scissors
+ - Rachmaninoff - Piano Concert #2
+ - Weird Al - Straight Outta Lynwood
+
+** Bonus: 7-Tober 
+   
+_Score: 30/31, 97%_
+
+As a little bonus, I'm throwing in a challenge that I mostly accomplished accidentally. I ended up waking up at 7am every day (except today)!
+   
+* Conclusion
+
+This proved to be quite an interesting month. I mostly enjoyed the challenges and they certainly kept me busy. Given enough free time, I'm not sure I would do another month like this again. Though I've accomplished a lot, trying to fit it all in was a bit overwhelming at times, especially on busier days.
